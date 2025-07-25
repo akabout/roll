@@ -1,0 +1,42 @@
+{
+  "name": "roll-rpg-platform",
+  "version": "1.0.0",
+  "description": "Plateforme de jeu de rôle en ligne avec création d'aventures interactives",
+  "private": true,
+  "scripts": {
+    "dev": "concurrently \"npm run api\" \"npm run front\"",
+    "api": "cd api && npm run dev",
+    "front": "cd front && npm run dev",
+    "install-all": "npm install && cd api && npm install && cd ../front && npm install",
+    "build": "cd front && npm run build",
+    "start": "cd api && npm start",
+    "docker": "docker-compose up -d",
+    "docker:dev": "docker-compose up"
+  },
+  "dependencies": {
+    "@mui/icons-material": "^7.2.0",
+    "axios": "^1.5.0",
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^7.5.0",
+    "multer": "^1.4.5-lts.1",
+    "socket.io": "^4.7.2",
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.0"
+  },
+  "keywords": [
+    "rpg",
+    "jeu-de-role",
+    "aventure",
+    "interactif",
+    "nextjs",
+    "express"
+  ],
+  "author": "Votre nom",
+  "license": "MIT"
+}

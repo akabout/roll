@@ -1,0 +1,56 @@
+version: '3.8'
+
+services:
+  mongodb:
+    image: mongo:latest
+    container_name: roll-mongodb
+    ports:
+      - "27017:27017"
+    volumes:
+      - mongodb_data:/data/db
+    environment:
+      MONGO_INITDB_DATABASE: roll-rpg
+    networks:
+      - roll-network
+
+  api:
+    build:
+      context: ./api
+      dockerfile: Dockerfile
+    container_name: roll-api
+    ports:
+      - "5000:5000"
+    environment:
+      - NODE_ENV=production
+      - MONGODB_URI=mongodb://mongodb:27017/roll-rpg
+      - JWT_SECRET=votre_secret_jwt_tres_securise_ici
+      - CORS_ORIGIN=http://localhost:3000
+    depends_on:
+      - mongodb
+    networks:
+      - roll-network
+    volumes:
+      - ./api/uploads:/app/uploads
+
+  front:
+    build:
+      context: ./front
+      dockerfile: Dockerfile
+    container_name: roll-front
+    ports:
+      - "3000:3000"
+    environment:
+      - NODE_ENV=production
+      - NEXT_PUBLIC_API_URL=http://localhost:5000
+      - NEXT_PUBLIC_SOCKET_URL=http://localhost:5000
+    depends_on:
+      - api
+    networks:
+      - roll-network
+
+volumes:
+  mongodb_data:
+
+networks:
+  roll-network:
+    driver: bridge 
