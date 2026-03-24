@@ -1,0 +1,2679 @@
+{
+  "users": {
+    "martin@omegapermis.com": {
+      "moments": [
+        {
+          "id": "1772033018734-501b5172f757a",
+          "title": "Scene 1",
+          "notes": "La lame et le sang\n\n-- 1 of 137 --",
+          "audioTrackId": "",
+          "cardType": "narration",
+          "ambiance": "sombre",
+          "imageUrl": "",
+          "mapUrl": "",
+          "trackUrl": "",
+          "attachedCharacterSheetIds": [],
+          "invitedTemplateKeys": [],
+          "sceneKind": "narration",
+          "moodHint": "sombre",
+          "npcs": [],
+          "locations": [],
+          "triggerKeywords": [],
+          "createdAt": "2026-02-25T15:23:38.734Z"
+        },
+        {
+          "id": "1772033018735-b0796e4c839c7",
+          "title": "ACTE 1 : La traque de l’émissaire",
+          "notes": "ACTE 1 : La traque de l’émissaire\n\n-- 2 of 137 --\n\nAccroche 1 : étant nouveaux arrivés dans la ville , les héros sont convoqués par le prince Jarnell 3 pour une fouille et une enquête d’identité dès leur arrivée\nen ville.\nAccroche 2 : Les personnages sont regroupés dans la salle qui sert aux enquêtes d’identités demandées par Jarnell 3 suite à des disparitions nombreuses et\nimportantes dans toutes les strates de la ville.\nLes personnages peuvent être emprisonnés selon leurs réponses mais seront vite mis hors de cause , vu que les disparitions continueront pendant leur\nincarcération.\nLa ville est belle , et rien ne laisse présager qu’elle est profondément tourmentée. Les commerces sont florissants , le niveau de vie et de salubrité dans la\nville est bon , la richesse moyenne du peuple semble être plus haute que les villes autour. Cette ville fortifiée ressemble à un joyau posé sur le haut d’une\ncouronne. Les rues sont propres et pavées , un système d’égout sous la ville semble être efficace car on ne sent que l’odeur des fleurs et de de la nourriture\nà la surface.\nDes dizaines de milliers d’habitants peuplent cette ville moderne et qui possède tout ce qu’une ville peut souhaiter : é",
+          "audioTrackId": "",
+          "cardType": "narration",
+          "ambiance": "neutre",
+          "imageUrl": "",
+          "mapUrl": "",
+          "trackUrl": "",
+          "attachedCharacterSheetIds": [],
+          "invitedTemplateKeys": [],
+          "sceneKind": "narration",
+          "moodHint": "neutre",
+          "npcs": [
+            "Accroche",
+            "Jarnell",
+            "Cette",
+            "Son",
+            "Kotrya",
+            "Cependant"
+          ],
+          "locations": [
+            "la ville",
+            "la salle qui sert aux enquêtes",
+            "toutes les strates de la ville",
+            "la",
+            "le haut d’une",
+            "la ville semble être efficace c"
+          ],
+          "triggerKeywords": [],
+          "createdAt": "2026-02-25T15:23:38.735Z"
+        },
+        {
+          "id": "1772033018735-08fbcfd13301e",
+          "title": "Scene 3",
+          "notes": "-- 3 of 137 --\n\nPrince Jarnell III\n\n-- 4 of 137 --\n\nLes personnages se retrouvent donc dans la salle d’audience du trône parmi plusieurs étrangers. Le prince Jarnell est assis sur un fauteuil au pied d’une\nstructure qui comporte un trône accessible par des escaliers droits ainsi qu’un autre fauteuil identique au sien de l’autre cote des escaliers , le tout faisant\nface à la salle d’audience.\nLe capitaine de la garde Myrko parle gentiment aux étrangers leur demandant de faire montre de respect envers son altesse Jarnell 3 et qu’ils vont procéder à\nl’inspection du matériel , des charrettes et des documents officiels de chaque étranger.\nLe prince Jarnell se lève et vient en personne participer à l’inspection. C’est un homme jeune mais de lui se dégage une puissance certaine , et il est très\nprobable qu’il soit formé au combat. D’ailleurs , mis à part sa couronne sur sa tête , rien ne laisse penser que cet homme appartient à la famille royale plutôt\nqu’à l’armée. Les personnages sont au milieu du rang de la fouille.\nJarnell ordonne au capitaine Myrko de trouver « ce que vous savez » d’une voix ferme mais bienveillante. Les personnages sont ainsi fouillés sans que rien ne\nsoit retenu co",
+          "audioTrackId": "",
+          "cardType": "combat",
+          "ambiance": "neutre",
+          "imageUrl": "",
+          "mapUrl": "",
+          "trackUrl": "",
+          "attachedCharacterSheetIds": [],
+          "invitedTemplateKeys": [],
+          "sceneKind": "combat",
+          "moodHint": "neutre",
+          "npcs": [
+            "Prince Jarnell",
+            "Jarnell",
+            "Myrko",
+            "Elle",
+            "Lors",
+            "Capitaine"
+          ],
+          "locations": [
+            "la salle d’audience du trône pa",
+            "un fauteuil au pied d’une",
+            "sien de l’autre cote des escali",
+            "combat",
+            "sa tête",
+            "milieu du rang de la fouille"
+          ],
+          "triggerKeywords": [
+            "combat"
+          ],
+          "createdAt": "2026-02-25T15:23:38.736Z"
+        },
+        {
+          "id": "1772033018736-113a7d53710118",
+          "title": "Scene 4",
+          "notes": "-- 5 of 137 --\n\nCapitaine Myrko\n\n-- 6 of 137 --\n\nJarnell déchire le document et emmène le paysan sous escorte ailleurs avec le capitaine et des soldats.\nLes 2 soldats restants se mettent devant la porte et demandent à tout le monde de sortir.\nAvec une détection dd 10 les personnages peuvent voir qu’ils peuvent prendre les morceaux de lettre sans être repérés.\nSi les personnages prennent la lettre avec un dd15 ils peuvent voir que la fille dans les ténèbres les observe toujours depuis les ombres fixement sans pour\nautant qu’ils puissent l’apercevoir , c’est plus une sensation qu’autre chose.\nUne fois sortis , les personnages se retrouvent en plein centre de Kotrya et sont attirés par un attroupement sur la grande place publique. En se frayant un\nchemin parmi la foule , ils arrivent à voir un grand tableau couvert d’avis de recherches dont un actuellement en train d’être cloué. Avec la mention « si vous\ndétenez des informations , rapprochez-vous du capitaine Myrko à la caserne de la garde, une récompense vous sera attribuée en fonction de votre contribution ».\nDe l’autre cote de l’immense tableau , la foule semble plus joyeuse.\n« elle arrive », « elle est la », « on va enfin la voir",
+          "audioTrackId": "",
+          "cardType": "narration",
+          "ambiance": "calme",
+          "imageUrl": "",
+          "mapUrl": "",
+          "trackUrl": "",
+          "attachedCharacterSheetIds": [],
+          "invitedTemplateKeys": [],
+          "sceneKind": "narration",
+          "moodHint": "calme",
+          "npcs": [
+            "Capitaine Myrko",
+            "Jarnell",
+            "Avec",
+            "Kotrya",
+            "Myrko",
+            "Tout"
+          ],
+          "locations": [
+            "escorte ailleurs avec le capita",
+            "la porte et demandent à tout le",
+            "les ténèbres les observe toujou",
+            "la grande place publique",
+            "le tableau",
+            "ceinture"
+          ],
+          "triggerKeywords": [],
+          "createdAt": "2026-02-25T15:23:38.736Z"
+        },
+        {
+          "id": "1772033018736-1a152807a92cc",
+          "title": "Scene 5",
+          "notes": "-- 7 of 137 --\n\nLa ville est immense et ne dort jamais , la seule différence entre le jour et la nuit est l’éclairage ainsi que la fréquentation.\nChâteau (MAP 2 book 1 p 49-50 ) : c’est le château royal , la seule partie accessible sans invitation est la salle d’audience après s’être enregistré pour une\ndoléance. Le château est grand mais ce n’est pas un labyrinthe . Il y a les geôles , les cuisines , les appartements , les appartements royaux , la salle du trésor\n, les jardins , la salle d’armes , la salle à manger et évidemment la salle d’audience.\nCaserne de garde ( MAP 3 book 3 p 39-40 ) : C’est ici que sont logés les soldats par centaines ainsi que leur capitaine Myrko. Il y a toujours du monde en\nfaction même lors des patrouilles qui comptent chacune 10 soldats. Myrko passe le plus clair de son temps dans son bureau ou auprès de Jarnell quand celui-\nci le fait demander. Il est le conseiller militaire de la famille royale et aussi un ami fidèle.\nCathédrale ( MAP 4 book 2 p 27-28 ) : Le père Tauros est l’archevêque ainsi que le guide spirituel de la région. Il est réputé pour être dur mais avoir une\nfoi inflexible. Il mène ses fidèles sans se soucier des problèmes politiques.\nL",
+          "audioTrackId": "",
+          "cardType": "narration",
+          "ambiance": "neutre",
+          "imageUrl": "",
+          "mapUrl": "",
+          "trackUrl": "",
+          "attachedCharacterSheetIds": [],
+          "invitedTemplateKeys": [],
+          "sceneKind": "narration",
+          "moodHint": "neutre",
+          "npcs": [
+            "Caserne",
+            "Myrko",
+            "Jarnell",
+            "Cath",
+            "Tauros",
+            "Kandros"
+          ],
+          "locations": [
+            "son bureau ou auprès de Jarnell",
+            "l’établissement",
+            "reste de la population qui a un",
+            "ce quartier",
+            "ville"
+          ],
+          "triggerKeywords": [
+            "rituel"
+          ],
+          "createdAt": "2026-02-25T15:23:38.736Z"
+        },
+        {
+          "id": "1772033018736-21725254ba052",
+          "title": "Scene 6",
+          "notes": "-- 8 of 137 --\n\nCommerces ( MAP 4 book 1 p 47-48 ) : On trouve tout à Kotrya. Armes , armures , nourriture , magie , potions , mercenaires. Tout a un prix et tout est\nnégociable à condition d’avoir des arguments.\nMarché : C’est ici que naissent les rumeurs sur la ville et ce qu’il s’y passe. Outre les marchandises , on y trouve aussi des pickpockets qui peuvent disparaitre\na la faveur de la foule. C’est ici qu’ont lieu la plupart des crimes pour les mêmes raisons.\nArènes (MAP 3 book 2 p 31-32) : Les arènes sont la distraction numéro 1 de Kotrya. La venue de Kyra ’’la belle’’ semble être une attraction. Elle n’est pas\nspécialement forte même si c’est une vraie combattante , mais ses combats sont spectaculaires et romancés à travers la terre connue. Elle se déplace avec sa\ngarde personnelle car elle estime être une célébrité. Elle est cependant reconnue comme très avenante.\nPort (MAP 2 book 2 p 33-34) : Le port est un lieu de commerce frénétique ou transitent une multitude de marchandises diverses et variées. Il couvre la face\nsud de la ville.\nBanque ( MAP 7 book 3 p 59-60 ) : La banque de la ville est une véritable chambre forte. Elle propose des prêts aux habitants et saisit leurs",
+          "audioTrackId": "",
+          "cardType": "combat",
+          "ambiance": "calme",
+          "imageUrl": "",
+          "mapUrl": "",
+          "trackUrl": "",
+          "attachedCharacterSheetIds": [],
+          "invitedTemplateKeys": [],
+          "sceneKind": "combat",
+          "moodHint": "calme",
+          "npcs": [
+            "Commerces",
+            "Kotrya",
+            "Armes",
+            "Tout",
+            "March",
+            "Outre"
+          ],
+          "locations": [
+            "la ville et ce qu’il s’y passe",
+            "faveur de la foule",
+            "habitants et saisit leurs biens",
+            "l’enceinte sauf pour les gardes",
+            "quartier du commerce",
+            "la ville"
+          ],
+          "triggerKeywords": [
+            "combat",
+            "repos"
+          ],
+          "createdAt": "2026-02-25T15:23:38.736Z"
+        },
+        {
+          "id": "1772033018737-8dc1036d4cc908",
+          "title": "Scene 7",
+          "notes": "-- 9 of 137 --\n\nMaisons closes (MAP 1 book 3 p 15-16 ) : Il en existe de toutes sortes et toutes les races y sont représentées. De par le brassage dans cette ville , tout le\nmonde a déjà vu un draconien ou un tiefelin par exemple. Il y a régulièrement des crimes et des disparitions dans ces lieux. Ils sont moins gardés que les autres\net ce qui s’y passe dégoute la royauté.\nPlace des spectacles ( MAP 4 book 3 p 57-58 ): Un cirque , un festival , un tournoi ou une annonce royale aura lieu ici. C’est une grande esplanade entourée de\ntribunes en pierre. Cet amphithéâtre est un lieu où sont aussi dispensés des cours de philosophie en petit groupes.\nEgouts ( MAP 6 book 3 p 7-8 ) : Les égouts sont un système de larges canalisations qui parcourent le dessous de la ville. Personne n’y va à cause des odeurs et\nles gardes rechignent à y prendre leur poste car rien ne s’y passe. Ils se jettent dans la mer du côté sud afin que le courant emporte les eaux usées et ne\npolluent pas le port.\nPortes nord , est et ouest : Elles sont toutes gardées par une puissante faction car les accès routiers sont attaqués parfois par des bandits. La force de\ndissuasion fait que la ville est tranquille à l’intérie",
+          "audioTrackId": "",
+          "cardType": "narration",
+          "ambiance": "calme",
+          "imageUrl": "",
+          "mapUrl": "",
+          "trackUrl": "",
+          "attachedCharacterSheetIds": [],
+          "invitedTemplateKeys": [],
+          "sceneKind": "narration",
+          "moodHint": "calme",
+          "npcs": [
+            "Maisons",
+            "Place",
+            "Cet",
+            "Egouts",
+            "Personne",
+            "Portes"
+          ],
+          "locations": [
+            "cette ville",
+            "ces lieux",
+            "la mer du côté sud afin que le",
+            "ville",
+            "Chateau"
+          ],
+          "triggerKeywords": [],
+          "createdAt": "2026-02-25T15:23:38.737Z"
+        },
+        {
+          "id": "1772033018737-513f11fb182d7",
+          "title": "Scene 8",
+          "notes": "-- 11 of 137 --\n\nOu trouver les personnages ?\nL’émissaire des ombres , Kyra « la belle » aux arènes dans sa loge . Elle sort parfois faire un bain de foule avec sa garde au marché et aussi se montrer à\nla place des spectacles pour qu’on la peigne en action. Elle sort aussi le soir dans les auberges et les maisons closes.\nLe prince de Kotrya , Jarnell , dans son château , salle d’audience , salle d’arme , sa chambre , place des spectacles.\nLe maitre de la Lune , Jarnell 1er , salle secrète du château uniquement accessible par un long réseau qui s’ouvre sous le camp des hors la loi. La pièce\nsecrète est un immense hall ou peuvent tenir un millier de personne avec un balcon. Un immense et lourd levier mécanique existe afin de pouvoir entrer\ndans le château par les geôles.\nJarnell 2 , salle secrète , château , peut actionner le levier seul.\nStryko , camp des voleurs ou dans la forêt qui entoure Kotrya.\nMyria , dans le château , dans le quartier des nobles.\nPère Tauros , cathédrale , auberge , quartier des nobles , maisons closes sous couverture.\nFrancesca , égouts.\nFrancisca , égouts.\nCapitaine Elrikus , au port sous couverture , sur les mers .\nHaut Trésorier Bondo , dans sa banque , q",
+          "audioTrackId": "",
+          "cardType": "narration",
+          "ambiance": "calme",
+          "imageUrl": "",
+          "mapUrl": "",
+          "trackUrl": "",
+          "attachedCharacterSheetIds": [],
+          "invitedTemplateKeys": [],
+          "sceneKind": "narration",
+          "moodHint": "calme",
+          "npcs": [
+            "Kyra",
+            "Elle",
+            "Kotrya",
+            "Jarnell",
+            "Lune",
+            "Stryko"
+          ],
+          "locations": [
+            "arènes dans sa loge",
+            "marché et aussi se montrer à",
+            "les auberges et les maisons clo",
+            "son château",
+            "le camp des hors la loi",
+            "le château par les geôles"
+          ],
+          "triggerKeywords": [],
+          "createdAt": "2026-02-25T15:23:38.737Z"
+        },
+        {
+          "id": "1772033018737-07a053b6bc5e9",
+          "title": "Scene 9",
+          "notes": "L’appartenance au Conseil de la nuit est limitée à 10 membres plus un maitre.\nChaque membre dispose d’un numéro gravé sur un côté du jeton et une maxime de l’autre. Chaque jeton peut s’ouvrir et contient une partie des informations\nsur le chemin à suivre afin d’arriver à la salle secrète du culte.\nJeton 10 : Tu fais partie des nôtres , tu lui appartiens « au cœur de la foret , côté sud du grand arbre millénaire »\nJeton 9 : Ta vie lui servira et il te récompensera , « soulève la porte du conclave et enfonce-toi dans les ténèbres 100 pas »\nJeton 8 : Avec lui vient le temps de la fin « 90° à gauche 50 pas »\nJeton 7 : Sa force secouera le monde , « 90° droite 200 pas »\nJeton 6 : Ses pas feront trembler la lumière « 90° droite 100 pas »\nJeton 5 : Sa noirceur illuminera les ténèbres « nage tout droit 100 brasses »\nJeton 4 : Il arrive , il est là , il vient , « sur la berge 150 pas tout droit »\nJeton 3 : Nous sommes impatients de te servir dans la non-vie « colle toi au mur de droite 50 pas pour éviter la mort »\nJeton 2 : Seigneurs de la guerre et du sang nous nous soumettons « actionne les 2 leviers en même temps ou meurs »\nJeton 1 : Que le sang pleuve et que la non-vie règne « une fois",
+          "audioTrackId": "",
+          "cardType": "dialogue",
+          "ambiance": "sombre",
+          "imageUrl": "",
+          "mapUrl": "",
+          "trackUrl": "",
+          "attachedCharacterSheetIds": [],
+          "invitedTemplateKeys": [],
+          "sceneKind": "dialogue",
+          "moodHint": "sombre",
+          "npcs": [
+            "Conseil",
+            "Chaque",
+            "Jeton",
+            "Avec",
+            "Ses",
+            "Nous"
+          ],
+          "locations": [
+            "Conseil de la nuit est limitée",
+            "un côté du jeton et une maxime",
+            "le chemin à suivre afin d’arriv",
+            "cœur de la foret",
+            "les ténèbres 100 pas »",
+            "la berge 150 pas tout droit »"
+          ],
+          "triggerKeywords": [],
+          "createdAt": "2026-02-25T15:23:38.737Z"
+        },
+        {
+          "id": "1772033018737-6ad61a7892e6f",
+          "title": "Scene 10",
+          "notes": "-- 13 of 137 --\n\nConfronter Kyra :\nLes personnages doivent appréhender Kyra avant de se lancer à la poursuite des 10.\nElle dispose d’informations sur les lieux de prélèvement , elle connait l’existence des 10 mais ne connait pas leurs noms.\nElle peut être tuée ou emprisonnée ou même simplement interrogée.\nElle a dans sa loge des prospectus à donner à ses proies afin qu’ils se rendent aux lieux choisis\nKyra est une femme magnifique et séduisante. Elle maitrise l’art du combat et utilise sa renommée afin d’alimenter une secte nihiliste qui soutient Orcus. Elle pense\navoir une place de choix dans le futur monde et qu’elle sera l’impératrice de la non-vie grâce à sa beauté.\nEn attendant elle met à profit ses talents de combattante et d’actrice au service de son maitre secret.\nC’est une femme d’une trentaine d’années , sympathique et joviale au premier abord mais en étant très fin , on peut détecter de l’hypocrisie quand elle parle voir\nmême de la colère et du dégout.\nLors de ses tournées , elle écume les arènes pour ses représentations ainsi que les soirées mondaines , les lieux de débauche et aussi les lieux de culture. Elle est\nnarcissique et se plait à penser qu’elle est mieux que t",
+          "audioTrackId": "",
+          "cardType": "combat",
+          "ambiance": "mystere",
+          "imageUrl": "",
+          "mapUrl": "",
+          "trackUrl": "",
+          "attachedCharacterSheetIds": [],
+          "invitedTemplateKeys": [],
+          "sceneKind": "combat",
+          "moodHint": "mystere",
+          "npcs": [
+            "Confronter Kyra",
+            "Kyra",
+            "Elle",
+            "Orcus",
+            "Lors",
+            "Ses"
+          ],
+          "locations": [
+            "les lieux de prélèvement",
+            "sa loge des prospectus à donner",
+            "lieux choisis",
+            "le futur monde et qu’elle sera",
+            "service de son maitre secret",
+            "premier abord mais en étant trè"
+          ],
+          "triggerKeywords": [
+            "combat"
+          ],
+          "createdAt": "2026-02-25T15:23:38.737Z"
+        },
+        {
+          "id": "1772033018737-91c5bbf9678928",
+          "title": "Scene 11",
+          "notes": "-- 14 of 137 --\n\nKyra et ses gardes\n\n-- 15 of 137 --\n\nSes gardes sont plus dangereux qu’elle. Il s’agit d’automates qui peuvent être désactivés grâce à une commande à distance. Elle a 4 boutons numérotés qui\ncorrespondent chacun a un soldat. Sans ses soldats , c’est une guerrière normale.\nElle porte une armure en maille , des bottes et gants en cuir et un casque une épée et une dague.\nLa télécommande reste dans un coffre fermé caché dans sa loge ou sur elle.\nEtant donnée qu’elle est connue , en cas de conflit , c’est elle que la garde va protéger contre des assaillants sans autorisation.\nLors de sa défaite , elle peut demander qu’on l’épargne pour ensuite trahir les joueurs si elle le peut. Elle mourra pour Orcus et préfèrera mourir que dire son\nnom. Elle parlera simplement de « notre maitre ». Si les joueurs l’épargnent , elle sera exécutée en place des spectacles ou envoyée dans l’arène contre un vrai\ngladiateur ou elle sera vaincue et exécutée.\nSes prospectus donnent plusieurs rendez-vous différents , tous à minuit :\n- Sur les quais du port\n- Proche de la sortie des égouts\n- Au cœur de la forêt\n- Quartier des nobles\nIl faut tenir le prospectus en main et rester immobile la tête",
+          "audioTrackId": "",
+          "cardType": "dialogue",
+          "ambiance": "neutre",
+          "imageUrl": "",
+          "mapUrl": "",
+          "trackUrl": "",
+          "attachedCharacterSheetIds": [],
+          "invitedTemplateKeys": [],
+          "sceneKind": "dialogue",
+          "moodHint": "neutre",
+          "npcs": [
+            "Kyra",
+            "Ses",
+            "Elle",
+            "Sans",
+            "Etant",
+            "Lors"
+          ],
+          "locations": [
+            "un coffre fermé caché dans sa l",
+            "elle",
+            "l’arène contre un vrai",
+            "les quais du port",
+            "cœur de la forêt",
+            "joueurs d’agir avec l’appui du"
+          ],
+          "triggerKeywords": [],
+          "createdAt": "2026-02-25T15:23:38.737Z"
+        },
+        {
+          "id": "1772033018738-2926d7a46a171",
+          "title": "Scene 12",
+          "notes": "-- 16 of 137 --",
+          "audioTrackId": "",
+          "cardType": "narration",
+          "ambiance": "neutre",
+          "imageUrl": "",
+          "mapUrl": "",
+          "trackUrl": "",
+          "attachedCharacterSheetIds": [],
+          "invitedTemplateKeys": [],
+          "sceneKind": "narration",
+          "moodHint": "neutre",
+          "npcs": [],
+          "locations": [],
+          "triggerKeywords": [],
+          "createdAt": "2026-02-25T15:23:38.738Z"
+        },
+        {
+          "id": "1772033018738-852d2c7b9c38b8",
+          "title": "ACTE 2 : La révélation du complot",
+          "notes": "ACTE 2 : La révélation du complot\n\n-- 17 of 137 --\n\nLes joueurs sont convoqués à nouveau au château. Jarnell vient les chercher à la porte lui-même avec un air grave et la mine défaite.\n« Mes amis … je suis heureux de vous voir ici. Je vous ai fait venir ici car après tout c’est vous qui avez enquêté et réussi à\nprouver que Kyra était à la solde d’un sombre maitre. Une tempête approche … et pour tout vous dire elle a déjà éclaté dans mon\nchâteau … Venez et vous comprendrez ».\nIl marche d’un pas rapide jusqu’à une salle adjacente de sa salle du trône. Devant la porte , il prend une grande inspiration , marque un temps\nd’arrêt puis pousse la porte avec une vigueur démesurée qui la fait claquer contre le mur. A ce moment , tout le raffut qui avait lieu dans la\npièce cesse et tous les regards se braquent sur Jarnell et les joueurs. Des notables de la ville sont présents pour ce qui ressemble à un\nconseil de guerre et visiblement l’arrivée des joueurs ne satisfait pas tout le monde. Regards assassins , attitudes arrogantes voire\nméprisantes , hochements de tête dédaigneux se mêlent à la curiosité qu’apporte cette étrange troupe qui sert le prince sans raison\napparente. Et pour la haute",
+          "audioTrackId": "",
+          "cardType": "intrigue",
+          "ambiance": "sombre",
+          "imageUrl": "",
+          "mapUrl": "",
+          "trackUrl": "",
+          "attachedCharacterSheetIds": [],
+          "invitedTemplateKeys": [],
+          "sceneKind": "intrigue",
+          "moodHint": "sombre",
+          "npcs": [
+            "Jarnell",
+            "Mes",
+            "Kyra",
+            "Venez",
+            "Devant",
+            "Regards"
+          ],
+          "locations": [
+            "château",
+            "mon",
+            "la porte",
+            "la",
+            "Jarnell et les joueurs",
+            "les joueurs"
+          ],
+          "triggerKeywords": [],
+          "createdAt": "2026-02-25T15:23:38.738Z"
+        },
+        {
+          "id": "1772033018738-11d4a17bbe19",
+          "title": "Scene 14",
+          "notes": "-- 18 of 137 --\n\nListe des gens présents :\n- Tauros et Bélios pour l’église\n- Haut Trésorier Bondo pour la banque\n- Myria ainsi que ses sœurs Lyana et Aribelle , Joris , Elrich , Orguna et la jeune Portina pour les nobles\n- Myrko , Metryane , Reginald et Orchal pour l’armée\n- Dervisio , Mancusella , Otodio , Meloane et Jelly pour le commerce\n- Maitre Kandros pour l’école\n- Maitre des quais Yade pour le port\n- Médecin chef Zigerova pour l’hôpital\n- Chef de guilde Orijo pour les aubergistes\n- Madame Rouge pour les maisons closes.\nIl y a clairement 2 clans. Ceux qui voient les joueurs comme un problème et ceux qui les voient comme une solution.\nCeux qui ont un bon apriori des joueurs sont : Bélios , Aribelle , Joris , Portina , Myrko , Orchal , tous les commerçants , Kandros selon comment s’est passée leur\nrencontre avant , Zigerova.\nMauvais apriori des joueurs : Tauros , Bondo , Myria , Lyana , Elrich , Orguna , Metryane , Reginald , Kandros selon leur rencontre avant , Yade , Orijo , Madame\nRouge.\nJarnell prend la parole avec autorité :\n« Si je vous ai fait venir aujourd’hui ici , c’est pour une raison très simple. Nous sommes attaqués par un ennemi inconnu et ces gens nous ont défe",
+          "audioTrackId": "",
+          "cardType": "combat",
+          "ambiance": "neutre",
+          "imageUrl": "",
+          "mapUrl": "",
+          "trackUrl": "",
+          "attachedCharacterSheetIds": [],
+          "invitedTemplateKeys": [],
+          "sceneKind": "combat",
+          "moodHint": "neutre",
+          "npcs": [
+            "Liste",
+            "Tauros",
+            "Haut",
+            "Bondo",
+            "Myria",
+            "Lyana"
+          ],
+          "locations": [
+            "la responsabilité de Myrko afin"
+          ],
+          "triggerKeywords": [],
+          "createdAt": "2026-02-25T15:23:38.738Z"
+        },
+        {
+          "id": "1772033018738-47441da77bb5b8",
+          "title": "Scene 15",
+          "notes": "-- 19 of 137 --\n\nMadame Rouge Orijo Médecin chef Zigerova Maitre des quais Yade\nMaitre Kandros Reginald Lyana\nDervisio , Mancusella , Otodio\n, Meloane et Jelly\n\n-- 20 of 137 --\n\n« Cela leur permettra d’agir au nom de notre noble conseil ».\nDes que ces mots furent prononcés , des rires moqueurs s’envolèrent de l’assemblée. En effet le titre d’adjoint est hiérarchiquement juste en dessous de Myrko ,\nlui-même au niveau des chevaliers.\n« Plutôt que de rire bêtement , je propose à chacun de nos honorables membres de poser la question de son choix à nos amis ci-présents ainsi que\nleur droit de réponse et nous voteront à la fin. Si la majorité du oui l’emporte , ils seront promus et bénéficieront de notre aide au grand jour. Si le\nnon l’emporte , ils seront simplement libres de faire ce que bon leur semble en tant que citoyen d’honneur pour services rendus ».\nL’assemblée est encore partagée mais semble plutôt être d’accord avec cette idée.\nLa discussion s’engage entre tous les protagonistes.\n- Tauros et Bélios pour l’église\nTauros « archevêque de l’église de Kotrya ». Il porte bien son nom. Il est massif et puissant , pas du tout ce que l’on attend d’un homme de foi. Il semble beaucoup\npl",
+          "audioTrackId": "",
+          "cardType": "narration",
+          "ambiance": "neutre",
+          "imageUrl": "",
+          "mapUrl": "",
+          "trackUrl": "",
+          "attachedCharacterSheetIds": [],
+          "invitedTemplateKeys": [],
+          "sceneKind": "narration",
+          "moodHint": "neutre",
+          "npcs": [
+            "Madame Rouge",
+            "Orijo",
+            "Zigerova Maitre",
+            "Yade\nMaitre",
+            "Kandros Reginald",
+            "Lyana\nDervisio"
+          ],
+          "locations": [
+            "nom de notre noble conseil »",
+            "niveau des chevaliers",
+            "grand jour",
+            "sa soutane dorée",
+            "ses avants bras",
+            "le culte ne sera jamais découve"
+          ],
+          "triggerKeywords": [],
+          "createdAt": "2026-02-25T15:23:38.738Z"
+        },
+        {
+          "id": "1772033018739-ca28e33970e978",
+          "title": "Scene 16",
+          "notes": "-- 21 of 137 --\n\nHaut Trésorier Bondo pour la banque\nCe Gobelin guindé et arrogant est particulièrement gros pour sa race ! C’est un être méchant , cruel et abject. Seul son intérêt personnel compte. Il est le président\nde la banque et un membre du conseil de la nuit aussi. Il votera non quoiqu’il arrive et ne veut faire repartir les aventuriers hors de la ville sue pour continuer à\ntracer sa voie malsaine.\n« Vous ! Je ne vous aime pas ! Vous êtes bien trop laids et malodorants pour être de bonnes personnes ! Vous pouvez partir ! Quoi ? Une question ? Ah\noui ! Vous pouvez repartir dans la crasse d’où vous êtes sorti ? Et vite ? De toute façon je voterai non moi ! »\nJarnell se prend la tête dans les mains…\nMyria « promise de Jarnell » pour les nobles\nC’est une elfe élégante , elle gracieuse et élancée. Elle est la promise de Jarnell et aussi la fille ainée de la famille elfique Rindorel qui fut la première à s’associer à la\ndynastie des Jarnell. Ils ont œuvré ensemble et gagné ainsi leur noblesse. Ce sont des elfes très jeunes.\nElle est également un maitre espion et a suivi personnellement les joueurs , elle sait donc tout d’eux.\n« Jarnell , mon amour , je pense que tu devrais congé",
+          "audioTrackId": "",
+          "cardType": "dialogue",
+          "ambiance": "neutre",
+          "imageUrl": "",
+          "mapUrl": "",
+          "trackUrl": "",
+          "attachedCharacterSheetIds": [],
+          "invitedTemplateKeys": [],
+          "sceneKind": "dialogue",
+          "moodHint": "neutre",
+          "npcs": [
+            "Haut",
+            "Bondo",
+            "Gobelin",
+            "Seul",
+            "Vous",
+            "Quoi"
+          ],
+          "locations": [
+            "la crasse d’où vous êtes sorti",
+            "les mains…",
+            "joueurs lui écorche la gorge",
+            "ville"
+          ],
+          "triggerKeywords": [],
+          "createdAt": "2026-02-25T15:23:38.739Z"
+        },
+        {
+          "id": "1772033018739-d9c84ca949e96",
+          "title": "Scene 17",
+          "notes": "-- 22 of 137 --\n\nAribelle « l’epee de la famille » pour les nobles\nA l’inverse de ses sœurs , la benjamine est en armure. Elle semble savoir manier l’épée et le bouclier et surtout avoir choisi la voie de la noblesse. Elle est\nbienveillante et a soif de servir Jarnell pour le bien de Kotrya.\n« Vous avez pourfendu le mal en vous occupant de Kyra. Cela vous place du côté du bien et ma question est simple …. Pourquoi combattre le mal aux\ncôtés du bien ? » La réponse oriente le vote\nJoris Flamecoeur pour les nobles\nDans leur jeunesse , Joris et Jarnell étaient amis car ils ont à peu près le même âge. L’ascension de Jarnell a rendu Joris plus distant lui qui regrette de ne plus\npouvoir fréquenter son ami comme avant. C’est un magicien de talent et sa famille est une digne représentante de Kotrya de par leurs actions tant militaires que\ncommerciales. Son vote va à Jarnell mais voici sa question.\n« Jarnell , si tu nous as amené tous ici devant ces inconnus c’est que la situation est grave. Tu sais que ma famille et moi mettront toutes nos forces pour\nt’aider mais nous ne connaissons pas ces gens donc je voudrai connaitre au moins 2 qualités de chacun et selon ce qu’ils diront je te soutie",
+          "audioTrackId": "",
+          "cardType": "combat",
+          "ambiance": "sombre",
+          "imageUrl": "",
+          "mapUrl": "",
+          "trackUrl": "",
+          "attachedCharacterSheetIds": [],
+          "invitedTemplateKeys": [],
+          "sceneKind": "combat",
+          "moodHint": "sombre",
+          "npcs": [
+            "Aribelle",
+            "Elle",
+            "Jarnell",
+            "Kotrya",
+            "Vous",
+            "Kyra"
+          ],
+          "locations": [
+            "côtés du bien ? » La réponse or",
+            "leur jeunesse",
+            "ces inconnus c’est que la situa",
+            "moins 2 qualités de chacun et s",
+            "le",
+            "sérieux sa mission en espérant"
+          ],
+          "triggerKeywords": [
+            "combat"
+          ],
+          "createdAt": "2026-02-25T15:23:38.739Z"
+        },
+        {
+          "id": "1772033018739-36a2ba4a843838",
+          "title": "Scene 18",
+          "notes": "-- 23 of 137 --\n\nOrguna la semi-orque pour les nobles\nIl est aussi rare que stupéfiant de voir des semi-orques dans les rangs de la noblesse. Orguna est la fille unique de son père Orc et sa mère Humaine. Sa mère a\ncaché sa nature autant que possible à sa naissance en espérant qu’elle puisse échapper à la mort. Elle est devenue , comme elle , une bouchère de talent qui a fait\nfortune dans le quartier des commerçants. Sa place est devenue si importante qu’elle a été anoblie et rend régulièrement des services au royaume pour la\nnourriture. Elle est musclée mais semble aussi intelligente.\n« Vous qui vous présentez devant nous aujourd’hui , racontez-nous donc votre enquête. J’ai moi-même entendu des rumeurs de mon côté. Si les choses\nconcordent vous aurez mon soutien. »\nPortina pour les nobles\nC’est une enfant de 10 ans. Elle est austère dans son attitude et son accoutrement. Elle ne chahute pas comme les autres et semble fixer les aventuriers sans cligner\ndes yeux avec un regard glacial. Quand vient son tour , plus un bruit ne s’envole dans la pièce. De sa petite voix elle demande ceci.\n« Sommes nous en danger ?\nVais-je devoir sacrifier des serviteurs ? » Puis elle se rassoit.\nC’est u",
+          "audioTrackId": "",
+          "cardType": "transition",
+          "ambiance": "calme",
+          "imageUrl": "",
+          "mapUrl": "",
+          "trackUrl": "",
+          "attachedCharacterSheetIds": [],
+          "invitedTemplateKeys": [],
+          "sceneKind": "transition",
+          "moodHint": "calme",
+          "npcs": [
+            "Orguna",
+            "Orc",
+            "Humaine",
+            "Elle",
+            "Vous",
+            "Portina"
+          ],
+          "locations": [
+            "les rangs de la noblesse",
+            "le quartier des commerçants",
+            "royaume pour la",
+            "nous aujourd’hui",
+            "son attitude et son accoutremen",
+            "la pièce"
+          ],
+          "triggerKeywords": [
+            "repos"
+          ],
+          "createdAt": "2026-02-25T15:23:38.739Z"
+        },
+        {
+          "id": "1772033018739-d56e2874095258",
+          "title": "Scene 19",
+          "notes": "-- 24 of 137 --\n\nMyrko pour l’armée\nMyrko connait les aventuriers et suivrait n’importe quel Jarnell en enfer. Il n’a pas de question pour les aventuriers et son vote est un soutien. Cependant il se tourne\nvers les autres décideurs.\n« Messeigneurs , mesdames , prenez conscience que sans ces aventuriers , un coup d’état se préparerait dans le secret.\nRemerciez-les plutôt que vous montrer méfiants. Remerciez aussi le ciel de n’avoir rien à vous reprocher dans cette histoire car entre vous et les\nJarnell , ma lame sera toujours de leur côté ! »\nMetryane la vierge de fer pour l’armée\nMetryane est une femme chevalier. Ses prouesses lors de batailles passées ont leur propre chanson. Mais les années faisant , elle est devenue moins forte et vit dans\nsa gloire d’antan. Elle a formé Myrko et Jarnell au combat pendant ses heures de gloire. Elle a rejoint le culte dans l’espoir de regagner sa jeunesse et sa puissance.\nSon vote sera non.\n« A quoi doit s’abaisser Kotrya pour devoir se sauver… Des rôdeurs , des moins que rien , des gens sans nom. Ma dignité m’empêche de vous suivre\nJarnell. Je vous ai appris à être plus fort que ça. Peut-être que vous ne feriez pas un aussi bon roi que ça. Peut-",
+          "audioTrackId": "",
+          "cardType": "combat",
+          "ambiance": "epique",
+          "imageUrl": "",
+          "mapUrl": "",
+          "trackUrl": "",
+          "attachedCharacterSheetIds": [],
+          "invitedTemplateKeys": [],
+          "sceneKind": "combat",
+          "moodHint": "epique",
+          "npcs": [
+            "Myrko",
+            "Jarnell",
+            "Cependant",
+            "Messeigneurs",
+            "Remerciez",
+            "Metryane"
+          ],
+          "locations": [
+            "les autres décideurs",
+            "le secret",
+            "cette histoire car entre vous e",
+            "sa gloire d’antan",
+            "combat pendant ses heures de gl",
+            "l’espoir de regagner sa jeuness"
+          ],
+          "triggerKeywords": [
+            "combat"
+          ],
+          "createdAt": "2026-02-25T15:23:38.739Z"
+        },
+        {
+          "id": "1772033018739-bf6568b95316a8",
+          "title": "Scene 20",
+          "notes": "-- 25 of 137 --\n\nJarnell revient avec Myria. Les deux semblent fâchés. Il se remet sur son siège et demande a tout le monde de s’assoir avec autorité.\nCeci est un conseil , pas un tribunal. Traitez mes invités avec respect. Les prochaines invectives gratuites envers qui que ce soit auront des répercussions.\nSur ces paroles Metryane baisse la tête , elle sait qu’elle ne peut pas défier Jarnell dans ces conditions.\nLe conseil reprend dans une ambiance pesante.\nReginald le demi-elfe pour l’armée\nIl est le maitre archer de l’armée. Il pense être un héros de guerre mais n’a jamais tiré sur autre chose que des cibles. Il ne s’est jamais battu mais comme il est un\narcher extraordinaire , une place de choix lui a été attribuée dans l’armée. Sa personnalité extravagante l’a ensuite mené jusqu‘au conseil.\n« Messiiiiiire , avons-nous vraiment besoin de clochards sortis du caniveau pour sauver votre peuuuuuuple ? » Il grimpe sur sa chaise et se met debout pour\nêtre en vue. Il parle en gesticulant.\n« Je peuuuuuux tout à fait m’occuper des meeeechaaaants. Je fais comme çaaaaa tchaaak tchaaak , il mime du tir à l’arc.\nJe peuuuux le faiiiiire »…. Jarnell lui envoie une cruche d’eau remplie en plei",
+          "audioTrackId": "",
+          "cardType": "dialogue",
+          "ambiance": "neutre",
+          "imageUrl": "",
+          "mapUrl": "",
+          "trackUrl": "",
+          "attachedCharacterSheetIds": [],
+          "invitedTemplateKeys": [],
+          "sceneKind": "dialogue",
+          "moodHint": "neutre",
+          "npcs": [
+            "Jarnell",
+            "Myria",
+            "Ceci",
+            "Traitez",
+            "Sur",
+            "Metryane"
+          ],
+          "locations": [
+            "son siège et demande a tout le",
+            "ces paroles Metryane baisse la",
+            "ces conditions",
+            "une ambiance pesante",
+            "autre chose que des cibles",
+            "l’armée"
+          ],
+          "triggerKeywords": [],
+          "createdAt": "2026-02-25T15:23:38.739Z"
+        },
+        {
+          "id": "1772033018740-c8d34345b06d4",
+          "title": "Scene 21",
+          "notes": "-- 26 of 137 --\n\nDervisio , Mancusella , Otodio , Meloane et Jelly pour le commerce\nLes 5 commerçants se lèvent en même temps. Dervisio prend la parole. Il tutoie Jarnell.\n« Messire , je te parle au nom de mes copains. On est d’accord pour te soutenir dans cette histoire. Tu sais je t’en avais parlé et on pense que y a des\ngens qui ont disparu , des sans grade. C’est très grave ce qui se passe. Nous on va continuer a travailler , on compte sur toi pour nous protéger ! Tu as\ncinq oui. »\nL’attitude familière de ce personnage est étrange mais personne ne semble choqué dans le conseil. Dervisio est en réalité l’oncle de Jarnell mais étant le cadet de\nson père , il ne peut pas aspirer au trône qui de toute façon ne l’intéresse pas. Il a beaucoup voyagé et a réussi dans les affaires.\nMaitre Kandros pour l’école\nLe maitre Kandros dirige l’école de la ville. Il est aussi un magicien raté qui essaye des sortilèges pour réussir à mieux apprendre à ses élèves. Il est possible que les\naventuriers l’aient rencontré auparavant et son vote sera donc variable.\n« Je voudrai demander à cette troupe comment ils comptent s’y prendre pour la suite. Dois-je confiner mes élèves chez eux ? »\nMaitre des qu",
+          "audioTrackId": "",
+          "cardType": "dialogue",
+          "ambiance": "neutre",
+          "imageUrl": "",
+          "mapUrl": "",
+          "trackUrl": "",
+          "attachedCharacterSheetIds": [],
+          "invitedTemplateKeys": [],
+          "sceneKind": "dialogue",
+          "moodHint": "neutre",
+          "npcs": [
+            "Dervisio",
+            "Mancusella",
+            "Otodio",
+            "Meloane",
+            "Jelly",
+            "Jarnell"
+          ],
+          "locations": [
+            "nom de mes copains",
+            "cette histoire",
+            "toi pour nous protéger ! Tu as",
+            "le conseil",
+            "trône qui de toute façon ne l’i",
+            "les affaires"
+          ],
+          "triggerKeywords": [],
+          "createdAt": "2026-02-25T15:23:38.740Z"
+        },
+        {
+          "id": "1772033018740-09c800fcfc21d",
+          "title": "Scene 22",
+          "notes": "-- 27 of 137 --\n\nMédecin chef Zigerova pour l’hôpital\nCette jolie femme blonde d’une quarantaine d’années a gardé un sourire sur son visage depuis le début. Elle dirige l’hôpital et y conduit des recherches pour prodiguer\ndes soins aussi bien magiques que scientifiques.\n« J’ai bien compris que j’allais avoir du boulot avec vous dit-elle en rigolant. Souhaitez-vous inspecter mon hôpital pour y trouver des méchants ou y\nrecevoir des soins ? »\nSon attitude enjouée et enfantine est en contradiction absolue avec le reste de l’assemblée qui semble l’apprécier malgré tout. Pour elle , seule la médecine compte.\nSon vote est acquis\nChef des guildes Orijo pour les aubergistes\nCe gros Haut Elfe moustachu est en fait le frère d’un certain Stryko , bandit de grand chemin très connu , et aussi un parrain de la mafia locale. Son poste de chef de\nguilde lui permet d’avoir un œil sur toute l’activité de la ville car c’est le lieu de rencontre de tout le monde après le travail. Il ne voit pas d’un bon œil l’arrivée des\naventuriers. Il est en relation régulière avec Stryko. Il se voient dans une de ses auberges sans se cacher , tellement convaincu de son pouvoir. Il votera non.\n« Moue … j’vous vois l",
+          "audioTrackId": "",
+          "cardType": "narration",
+          "ambiance": "calme",
+          "imageUrl": "",
+          "mapUrl": "",
+          "trackUrl": "",
+          "attachedCharacterSheetIds": [],
+          "invitedTemplateKeys": [],
+          "sceneKind": "narration",
+          "moodHint": "calme",
+          "npcs": [
+            "Zigerova",
+            "Cette",
+            "Elle",
+            "Souhaitez",
+            "Son",
+            "Pour"
+          ],
+          "locations": [
+            "son visage depuis le début",
+            "toute l’activité de la ville ca",
+            "une de ses auberges sans se cac",
+            "la fange",
+            "ville"
+          ],
+          "triggerKeywords": [],
+          "createdAt": "2026-02-25T15:23:38.740Z"
+        },
+        {
+          "id": "1772033018740-a5acc8c96fd7f8",
+          "title": "Scene 23",
+          "notes": "-- 28 of 137 --\n\n« Depuis l’histoire avec Kyra , je perds de l’argent à cause de vous , dit-elle sèchement. Vous vous rendez pas compte ce qu’elle consommait en\nhommes et du coup ce qu’ils consommaient en femmes ! Alors il semble que c’était une traitresse un peu mais bon je fais comment moi derrière ?\nVotre histoire de complot ça me plait pas beaucoup , c’est pas bon pour les affaires. Je préfèrerai que notre bon Myrko enquête lui-même et peut\nêtre qu’il passera me voir hein chéri ? Du coup je vais quand même poser une question. Vous remuez la merde ici mais ne vaudrait-il pas mieux\ncommencer par ce qu’il se passe au-delà de nos murs ? Parce que bon , moi si il y a une terreur en ville je ne travaille plus ! Et il y a déjà fort à faire\ndehors avec les bandits ! » Son vote dépend de la réponse.\nTauros Bélios Bondo Myria Lyana Aribelle Joris Elrich Orguna Portina Myrko Metryan\ne\nReginald Orchal Dervisio Mancusel\nla\nOtodio Meloane Jelly Kandros Yade Zigerova Orijo Madame\nRouge\nnon ? non non ? ? oui non ? ? Oui Non X oui Oui Oui Oui Oui oui ? non oui non ?\nOui ? non\n9 7 7\nJarnell se lève et s’adresse à l’assemblée.\n« Tout le monde a parlé nous allons maintenant voter de manière secrèt",
+          "audioTrackId": "",
+          "cardType": "intrigue",
+          "ambiance": "sombre",
+          "imageUrl": "",
+          "mapUrl": "",
+          "trackUrl": "",
+          "attachedCharacterSheetIds": [],
+          "invitedTemplateKeys": [],
+          "sceneKind": "intrigue",
+          "moodHint": "sombre",
+          "npcs": [
+            "Depuis",
+            "Kyra",
+            "Vous",
+            "Alors",
+            "Votre",
+            "Myrko"
+          ],
+          "locations": [
+            "un isoloir prévu à cet effet pu",
+            "prince la boite contentant les",
+            "ville"
+          ],
+          "triggerKeywords": [],
+          "createdAt": "2026-02-25T15:23:38.740Z"
+        },
+        {
+          "id": "1772033018740-6a22378c8d534",
+          "title": "Scene 24",
+          "notes": "-- 29 of 137 --\n\nLe groupe d’aventuriers assiste au décompte des votes. Il y en a 23 en tout car Jarnell ne vote pas , il ne peut pas y avoir d’égalité car pas d’abstention.\nLe vote est positif Le vote est négatif\nLes aventuriers gagnent des bonus suivants\n- XP\n- Logement + ravitaillement + équipement\n- Clé de la ville\n- Parchemin de mission au nom du prince\n- Réduction auprès des marchands\n- Accès à toutes les infrastructures de la ville\n- Formation militaire\n- Cible d’assassinat\nLes aventuriers gagnent les bonus suivants\n- Myrko va aider en secret et distiller des informations\n- Ceux qui ont dit non ne les aideront pas\n- Ceux qui ont dit oui fourniront une aide secrète\n- Anonymat\n- Discrédités en ville par des affiches\n\n-- 30 of 137 --\n\nLe vote est positif Le vote est négatif\nJarnell congédie son conseil et explique ce à quoi vont avoir droit les\naventuriers.\nIls sont désormais des agents du prince et , avec son autorité , vont\npouvoir enquêter sur les éléments retrouvés dans la loge de Kyra.\nIls auront un dortoir dans la caserne détaché du reste des soldats et\nseront connus des patrouilles qui les salueront.\n« Chers amis , je suis soulagé de pouvoir compter sur vous grâce à\nmon",
+          "audioTrackId": "",
+          "cardType": "intrigue",
+          "ambiance": "mystere",
+          "imageUrl": "",
+          "mapUrl": "",
+          "trackUrl": "",
+          "attachedCharacterSheetIds": [],
+          "invitedTemplateKeys": [],
+          "sceneKind": "intrigue",
+          "moodHint": "mystere",
+          "npcs": [
+            "Jarnell",
+            "Logement",
+            "Parchemin",
+            "Acc",
+            "Formation",
+            "Cible"
+          ],
+          "locations": [
+            "décompte des votes",
+            "nom du prince",
+            "les éléments retrouvés dans la",
+            "la caserne détaché du reste des",
+            "vous grâce à",
+            "le palais"
+          ],
+          "triggerKeywords": [],
+          "createdAt": "2026-02-25T15:23:38.740Z"
+        },
+        {
+          "id": "1772033018741-d160ba3ddc4548",
+          "title": "Scene 25",
+          "notes": "-- 31 of 137 --\n\nLe port\n\n-- 32 of 137 --\n\nSi les aventuriers décident de quitter la ville , ils partent par bateau car les gardes sont en alerte à cause des bandits dans la forêt environnante qui redoublent\nd’activité. Ils rencontreront des marins qui finiront par les orienter vers le capitaine Elrickus. En chemin ils repèrent des affiches avec des représentations de\nleurs têtes suivis de mensonges éhontés à leur sujet. Ils ne sont clairement pas en odeur de sainteté ici.\nSi les aventuriers enquêtent , ils seront orientés vers le port également qui semble être un lieu de prélèvement du Culte.\nAinsi l’histoire se rejoint en ce lieu.\nLe quartier sent le poisson et il y a une activité fourmillante ici. Un fin brouillard empêche de voir au loin mais on entend tout de même le son des vagues et des\nvoiles qui claquent. Des marins sont affalés par terre endormis sous le poids de l’alcool. Des grosses caisses sont entreposées un peu partout et forment un\ndédale de chemins entrecroisés. Des petits bars sont ouverts et accueillent toute la racaille de la mer. Ce quartier est malfamé et on n’y vient pas par hasard.\nSurtout on ne s’y attarde pas.\nSi les aventuriers ont bénéficié du soutien du",
+          "audioTrackId": "",
+          "cardType": "combat",
+          "ambiance": "calme",
+          "imageUrl": "",
+          "mapUrl": "",
+          "trackUrl": "",
+          "attachedCharacterSheetIds": [],
+          "invitedTemplateKeys": [],
+          "sceneKind": "combat",
+          "moodHint": "calme",
+          "npcs": [
+            "Elrickus",
+            "Culte",
+            "Ainsi",
+            "Surtout",
+            "Sinon",
+            "capitaine"
+          ],
+          "locations": [
+            "la forêt environnante qui redou",
+            "le capitaine Elrickus",
+            "le port également qui semble êt",
+            "loin mais on entend tout de mêm",
+            "le poids de l’alcool",
+            "eux des missives de mises à pri"
+          ],
+          "triggerKeywords": [
+            "repos"
+          ],
+          "createdAt": "2026-02-25T15:23:38.741Z"
+        },
+        {
+          "id": "1772033018741-056a857c50aab",
+          "title": "Scene 26",
+          "notes": "-- 33 of 137 --\n\nAssassin Drow\nPort de nuit\nMarin alcoolique belliqueux\n\n-- 34 of 137 --\n\nIl s’agit en fait des gens recrutés par Kyra qui sont envoyés à ce point de collecte. Ils se tiennent de la manière indiquée sur le prospectus afin d’être\nreconnaissable par le capitaine Elrickus dit le Kraken. Il est un ennemi mortel du maitre des quais Yade et ils se sont affrontés plusieurs fois en mer et sur\nterre. Yade sait ce qui est caché derrière cette légende et peut être intéressé par une élimination d’Elrickus. Cependant , ce pirate doit être piégé sur terre car\nson expertise marine lui donnera un avantage déterminant lors d’une bataille navale.\nYade est le seul sur le port à connaitre Elrikus. Les marins autour des quais eux tremblent à l’évocation du Kraken qui envoie par le fond navires marchands et\nmilitaires. La stratégie pour attirer Elrikus sur terre consiste à proposer de livrer Yade à Elrikus et de le trahir à ce moment-là sur les quais.\nElrickus est laid , violent , rustre et malin. Il est le capitaine du bateau pirate « la brume mortelle » et n’agit que sous couvert du brouillard maritime. Son\nbateau ressemble à un Drakkar équipé de pieux afin d’ouvrir les coques des autr",
+          "audioTrackId": "",
+          "cardType": "combat",
+          "ambiance": "sombre",
+          "imageUrl": "",
+          "mapUrl": "",
+          "trackUrl": "",
+          "attachedCharacterSheetIds": [],
+          "invitedTemplateKeys": [],
+          "sceneKind": "combat",
+          "moodHint": "sombre",
+          "npcs": [
+            "Assassin Drow",
+            "Port",
+            "Marin",
+            "Kyra",
+            "Elrickus",
+            "Kraken"
+          ],
+          "locations": [
+            "le prospectus afin d’être",
+            "terre",
+            "terre car",
+            "le port à connaitre Elrikus",
+            "terre consiste à proposer de li",
+            "les quais"
+          ],
+          "triggerKeywords": [
+            "combat"
+          ],
+          "createdAt": "2026-02-25T15:23:38.741Z"
+        },
+        {
+          "id": "1772033018741-60496368866c58",
+          "title": "Scene 27",
+          "notes": "-- 35 of 137 --\n\nAux portes de la mort , Elrickus parlera. Il dévoilera l’existence du conseil de la nuit , des dix et des jetons. Il expliquera que dévoiler ces informations ne\nchangera rien car le plan est déjà en marche et que son action ne servait qu’à renforcer un pouvoir déjà bien suffisant pour écraser cette petite ville misérable.\nIl dira que la ville brulera de l’intérieur et ensuite crachera au visage de Yade en riant très fort. Libre aux aventuriers du sort d’Elrickus. S’il est ramené au\nchâteau , des informations supplémentaires seront récoltées par Myrko. Il aura un nom à donner ( celui de Stryko ) et surtout le fonctionnement des jetons sera\nexpliqué. Il sera ensuite exécuté en place publique en insultant tout le monde et en riant grassement.\nLe capitaine Elrickus et ses pirates\n\n-- 36 of 137 --\n\nLe lendemain de cet évènement , le chevalier Metryane vient trouver les aventuriers dans leurs\nappartements. Elle se présente à la porte avec un air sévère.\n« Vous … présentez-vous à la salle d’armes du château dans les plus brefs délais car nous avons à\nparler »\nAprès avoir donné cet ordre , elle part en poussant un garde qui se trouvait sur son chemin. Elle va\nensuite à la",
+          "audioTrackId": "",
+          "cardType": "combat",
+          "ambiance": "neutre",
+          "imageUrl": "",
+          "mapUrl": "",
+          "trackUrl": "",
+          "attachedCharacterSheetIds": [],
+          "invitedTemplateKeys": [],
+          "sceneKind": "combat",
+          "moodHint": "neutre",
+          "npcs": [
+            "Aux",
+            "Elrickus",
+            "Yade",
+            "Libre",
+            "Myrko",
+            "Stryko"
+          ],
+          "locations": [
+            "portes de la mort",
+            "visage de Yade en riant très fo",
+            "aventuriers du sort d’Elrickus",
+            "château",
+            "leurs",
+            "les plus brefs délais car nous"
+          ],
+          "triggerKeywords": [
+            "combat"
+          ],
+          "createdAt": "2026-02-25T15:23:38.741Z"
+        },
+        {
+          "id": "1772033018742-02437ccec150a",
+          "title": "Scene 28",
+          "notes": "-- 37 of 137 --\n\nElle s’équipe de son bouclier et dégaine une épée scintillante sous les lumières des torches crépitantes.\n« J’ai verrouillé la porte grâce au mécanisme de contrôle qui se trouve derrière moi. Je vais vous combattre misérables cloportes. Mais je ne serai\npas seule. »\nElle tape du pied furieusement et 3 mannequins qui semblaient tout à fait normaux s’animent et se mettent en garde en ligne.\n« je commande aux automates. Je vous combattrai tous en même temps et je vengerai le Kraken ! »\nElle ordonne aux mannequins d’avancer en ligne. Du fond de sa salle , elle lève son bouclier et prépare son épée , ce que les automates reproduisent\ninstantanément.\nUn automate de Metryane\n\n-- 38 of 137 --\n\nLe raffut de l’affrontement alerte le château et au milieu de la bataille on entend des voix hurler de l’autre côté de la porte. Certains même tambourinent sur le\nbois de manière furieuse. Tout cela étant inutile , les gardes commencent à enfoncer la porte sous le commandement de Jarnell qui s’est déplacé.\nQuand ils ouvrent la porte , Metryane est mourante et ses automates stoppés ou détruits. Il s’approche d’elle doucement en regardant tout autour de lui. Il se\npenche au-dessus de s",
+          "audioTrackId": "",
+          "cardType": "combat",
+          "ambiance": "sombre",
+          "imageUrl": "",
+          "mapUrl": "",
+          "trackUrl": "",
+          "attachedCharacterSheetIds": [],
+          "invitedTemplateKeys": [],
+          "sceneKind": "combat",
+          "moodHint": "sombre",
+          "npcs": [
+            "Elle",
+            "Mais",
+            "Kraken",
+            "Metryane",
+            "Certains",
+            "Tout"
+          ],
+          "locations": [
+            "les lumières des torches crépit",
+            "mécanisme de contrôle qui se tr",
+            "automates",
+            "mannequins d’avancer en ligne",
+            "milieu de la bataille on entend",
+            "le"
+          ],
+          "triggerKeywords": [
+            "combat"
+          ],
+          "createdAt": "2026-02-25T15:23:38.742Z"
+        },
+        {
+          "id": "1772033018742-b85ab7b4a13228",
+          "title": "Scene 29",
+          "notes": "-- 39 of 137 --\n\nMetryane vaincue\n\n-- 40 of 137 --\n\n« Qu’est-ce que cela peut être ! Que veulent dire ces inscriptions ? Metryane ne portait pas de bijou. C’était une femme mais avant tout elle était une\nguerrière. Elle n’avait que faire de ce genre de babioles. Néanmoins , il faut admettre que ce jeton porté en médaille est perturbant. Elle a parlé de mon\npère avant de mourir. Peut-être que cela a à voir avec lui ? ».\nSi les aventuriers demandent ce qu’il s’est passé dans sa famille , il leur dira tout car il est dans un moment de faiblesse. Ce qui est arrivé est pour lui une tragédie\net en parler est une honte pesante.\n« Cette ville a été fondée par mon père il y a de cela 60 ans. Si vous faites le calcul , il a vécu une vie particulièrement longue et est resté vigoureux\njusqu’à sa disparition. C’était un homme bon qui préférait s’occuper de ses habitants plutôt que de ses enfants , il préférait laisser ca aux nourrices ou\nprécepteurs. Sa vie anormalement longue a changé lorsque ma mère est morte assassinée par des mendiants. Mon père et elle gouvernaient ensemble\net ne craignaient pas le peuple dont ils étaient soucieux. Mais un jour au marché , un groupe de mendiant s’en est pr",
+          "audioTrackId": "",
+          "cardType": "dialogue",
+          "ambiance": "mystere",
+          "imageUrl": "",
+          "mapUrl": "",
+          "trackUrl": "",
+          "attachedCharacterSheetIds": [],
+          "invitedTemplateKeys": [],
+          "sceneKind": "dialogue",
+          "moodHint": "mystere",
+          "npcs": [
+            "Metryane",
+            "Que",
+            "Elle",
+            "Peut",
+            "Cette",
+            "Mon"
+          ],
+          "locations": [
+            "sa famille",
+            "un moment de faiblesse",
+            "nourrices ou",
+            "marché",
+            "milieu de la foule",
+            "une tristesse que je ne pouvais"
+          ],
+          "triggerKeywords": [],
+          "createdAt": "2026-02-25T15:23:38.742Z"
+        },
+        {
+          "id": "1772033018742-58f627c5df6338",
+          "title": "Scene 30",
+          "notes": "-- 41 of 137 --\n\nL’histoire de Jarnell dévoilée , les aventuriers redeviennent libres de leurs agissements.\nIls viennent de collecter leur 2eme jeton et possèdent maintenant les jetons 7 et 10\nA partir de là , les autres cultistes savent qu’ils sont chassés. Ils savent également qui est déjà tombé.\nIls peuvent orienter les recherches vers plusieurs endroits déterminants :\n- Dans le château et au quartier des nobles pour enquêter sur Myria et un peu sur Jarnell 2\n- Dans la forêt ou sont emmenés les personnes enlevées pour enquêter sur Le Loup et Stryko\n- La banque de la ville pour enquêter sur le Haut Trésorier Bondo\n- Les égouts ou personne ne veut aller à cause d’une rumeur lugubre pour enquêter sur Francisca et Francesca\n- La cathédrale pour enquêter sur le destin du roi et se retrouver aux prises avec le Père Tauros\nSi Les aventuriers savent à quoi servent les jetons ils savent qu’ils sont au nombre de 10 et permettent de guider le groupe dans les ténèbres.\nIls savent aussi qu’un certain Stryko agit depuis la forêt est qu’il est le bras armé du conseil.\nSi les aventuriers ont tué Elrickus avant qu’il ne parle , ils doivent être orientés par des pnjs qui leur sont favorables vers",
+          "audioTrackId": "",
+          "cardType": "dialogue",
+          "ambiance": "neutre",
+          "imageUrl": "",
+          "mapUrl": "",
+          "trackUrl": "",
+          "attachedCharacterSheetIds": [],
+          "invitedTemplateKeys": [],
+          "sceneKind": "dialogue",
+          "moodHint": "neutre",
+          "npcs": [
+            "Jarnell",
+            "Dans",
+            "Myria",
+            "Loup",
+            "Stryko",
+            "Haut"
+          ],
+          "locations": [
+            "plusieurs endroits déterminants",
+            "le château et au quartier des n",
+            "Myria et un peu sur Jarnell 2",
+            "la forêt ou sont emmenés les pe",
+            "Le Loup et Stryko",
+            "le Haut Trésorier Bondo"
+          ],
+          "triggerKeywords": [],
+          "createdAt": "2026-02-25T15:23:38.742Z"
+        },
+        {
+          "id": "1772033018742-e711400f7b4078",
+          "title": "Scene 31",
+          "notes": "-- 44 of 137 --\n\nL’avocate générale en Cheffe Hardlaw est celle qui met de l’huile dans les rouages. Son talent pour\nrésoudre les conflits en en sortant encore plus riche qu’avant d’y entrer n’a d’égal que celui de gérer le\npersonnel de la banque de Kotrya. Sous ses airs de personne affable , elle est en réalité une redoutable\nadversaire quel que soit le terrain. Elle dirige elle-même d’une main de fer la section de recouvrement des\ndettes en s’appuyant sur son homme de main le plus fiable connu sous le pseudonyme de Big Axe . Les\nrumeurs disent même qu’ils forment un couple dans le plus grand secret en cachette de Bondo qui voudrait\nbien ajouter sa congénère a sa collection de richesses.\nLeur duo fonctionne bien et les ordres de Big Axe ne\nsont jamais contestés. Sa présence intimidante tant\npour les clients que pour ses subalternes suffit\ngénéralement à rendre la discussion fluide et agréable.\nIl ne se salit jamais les mains , ses hommes sont là pour\nça. Recrutés dans les quartiers malfamés des cités des\npeaux vertes et grâce à l’accord que Bondo a obtenu ,\nils œuvrent en toute légalité mais ne sont pas bien vus\nde la population. Lorsqu’ils ne travaillent pas , on ne les\nvoit que",
+          "audioTrackId": "",
+          "cardType": "combat",
+          "ambiance": "mystere",
+          "imageUrl": "",
+          "mapUrl": "",
+          "trackUrl": "",
+          "attachedCharacterSheetIds": [],
+          "invitedTemplateKeys": [],
+          "sceneKind": "combat",
+          "moodHint": "mystere",
+          "npcs": [
+            "Cheffe Hardlaw",
+            "Son",
+            "Kotrya",
+            "Sous",
+            "Elle",
+            "Big Axe"
+          ],
+          "locations": [
+            "les rouages",
+            "ses airs de personne affable",
+            "son homme de main le plus fiabl",
+            "le pseudonyme de Big Axe",
+            "le plus grand secret en cachett",
+            "les quartiers malfamés des cité"
+          ],
+          "triggerKeywords": [
+            "combat"
+          ],
+          "createdAt": "2026-02-25T15:23:38.742Z"
+        },
+        {
+          "id": "1772033018743-7175c19d25f338",
+          "title": "Scene 32",
+          "notes": "-- 46 of 137 --\n\nLors de leur arrivée , les joueurs sont obligés de déposer leurs armes à l’entrée de l’établissement. 2 Orcs idiots et à moitié endormi grommèlent des mots\nincompréhensibles mais les aventuriers comprennent qu’il s’agit ici de déposer leurs armes. Si les joueurs exigent une entrevue , ils seront expulsés par la\ngarde. Bondo méprise les gueux et ne leur accordera rien à moins qu’il n’y soit contraint par ordre de Jarnell.\nIl ne quitte jamais le sommet de la banque à moins d’être convoqué au château. Dans ce cas , il s’y rend dans un véhicule unique ne ville.\nIl s’agit d’une calèche tractée par des animaux mécaniques infatigables et particulièrement rapides. La calèche est noire et brillante. Ses vitres ne permettent\npas de voir au travers mais de l’intérieur Bondo peut lancer son regard méprisant sur tout le monde. Quand il revient à la banque , son véhicule rentre\nintégralement à l’intérieur et une équipe de gobelins en prend immédiatement soins.\nS’il est forcé de recevoir les aventuriers , Bondo envoie Hardlaw pour décourager les misérables cloportes qui lui feraient perdre du temps.\nAux joueurs de trouver les failles pour atteindre le sommet de la tour. Big Axe a",
+          "audioTrackId": "",
+          "cardType": "dialogue",
+          "ambiance": "mystere",
+          "imageUrl": "",
+          "mapUrl": "",
+          "trackUrl": "",
+          "attachedCharacterSheetIds": [],
+          "invitedTemplateKeys": [],
+          "sceneKind": "dialogue",
+          "moodHint": "mystere",
+          "npcs": [
+            "Lors",
+            "Orcs",
+            "Bondo",
+            "Jarnell",
+            "Dans",
+            "Ses"
+          ],
+          "locations": [
+            "château",
+            "ce cas",
+            "un véhicule unique ne ville",
+            "travers mais de l’intérieur Bon",
+            "tout le monde",
+            "joueurs de trouver les failles"
+          ],
+          "triggerKeywords": [],
+          "createdAt": "2026-02-25T15:23:38.743Z"
+        },
+        {
+          "id": "1772033018743-8c9ec435f41d1",
+          "title": "Scene 33",
+          "notes": "-- 47 of 137 --\n\nUne fois en bas , pendant que Big Axe ordonne la restitution des armes des joueurs , Les 5 plus Forts ! Arrivent en parlant très fort et en disant des\nabsurdités.\n« He les autres ! Regardez c’est qui ! » lance Gor qui semble le plus malin de la bande\n« heu c’est qui lui déjà ? Lui petit et maigre » grogne Rok qui lui semble être le moins malin de la bande\n« Lui c’est notre boss lèche botte de gobeline! Elle-même pas une vraie femme comme moi ! » se moque Raka\n« Oue toi vraie femme et lui peur que moi lui coupe sa sale tête » menace Grok\n« Toi perdre contre mes flèches , alors moi être le chef de vous si moi tuer lui » lance Tak\nBig Axe soupire puis se retourne pour leur faire face. Il lance un cri de guerre surpuissant qui fait reculer la bande de sauvages de plusieurs mètres. Lors\nde son cri il agrippe sa hache et ses musclent se gonflent d’une manière ridiculement exagérée.\nLes 5 Plus Forts partent sans demander leur reste , l’intimidation de Big Axe a fonctionnée. Il se retournent vers les joueurs et leur dit :\n« Si seulement ces bâtards pouvaient s’entretuer , ça m’enlèverait une belle épine du pied. Bondo les aime car ils sont efficaces et Hardlaw les\naime par",
+          "audioTrackId": "",
+          "cardType": "combat",
+          "ambiance": "neutre",
+          "imageUrl": "",
+          "mapUrl": "",
+          "trackUrl": "",
+          "attachedCharacterSheetIds": [],
+          "invitedTemplateKeys": [],
+          "sceneKind": "combat",
+          "moodHint": "neutre",
+          "npcs": [
+            "Big Axe",
+            "Forts",
+            "Arrivent",
+            "Regardez",
+            "Gor",
+            "Lui"
+          ],
+          "locations": [
+            "les joueurs et leur dit",
+            "un coin Tak a observé la scène",
+            "la banque à son tour",
+            "tour"
+          ],
+          "triggerKeywords": [
+            "boss",
+            "embuscade"
+          ],
+          "createdAt": "2026-02-25T15:23:38.743Z"
+        },
+        {
+          "id": "1772033018743-42c84b7e466",
+          "title": "Scene 34",
+          "notes": "-- 48 of 137 --\n\n1 – corrompre Big Axe\n2 – corrompre Hardlaw\n3 – corrompre les 5 Plus Forts\n1 : Big Axe veut être débarrassé des 5 Plus forts. Il peut rendre un service si celui-ci n’est pas contraire à ce qu’il cherche. Si les aventuriers lui\nparlent de tuer Hardlaw il les attaquera en rage sanguinaire. Si les aventuriers lui mentent il leur dira qu’ils manquent d’honneur et que chacun\ns’occupe de ses affaires. Si tout lui convient , il peut leur proposer de leur obtenir la clé du garage et de la calèche mécanique de Bondo afin de se\ncacher a l’intérieur pour le surprendre.\n2 : L’avocate générale en cheffe souhaite que le travail soit parfaitement accompli. Les récentes actions de Bondo qui exige plus au point de dévier\nde la règle la gêne aux entournures. Voir son patron destitué est une chose qu’elle verrait d’un bon œil surtout si c’est elle qui reprend le flambeau.\nDe plus elle pourrait être avec Big Axe au grand jour. Il n’est pas possible de lui mentir , elle a trop d’expérience. Si les joueurs essaient , elle\npourrait demander à Big Axe de prendre ses dispositions. Si elle a un accord avec les joueurs , elle pourrait les emmener au 10eme étage , celui\nréservé à Bondo , et l",
+          "audioTrackId": "",
+          "cardType": "combat",
+          "ambiance": "sombre",
+          "imageUrl": "",
+          "mapUrl": "",
+          "trackUrl": "",
+          "attachedCharacterSheetIds": [],
+          "invitedTemplateKeys": [],
+          "sceneKind": "combat",
+          "moodHint": "sombre",
+          "npcs": [
+            "Big Axe",
+            "Hardlaw",
+            "Plus Forts",
+            "Plus",
+            "Bondo",
+            "Voir"
+          ],
+          "locations": [
+            "point de dévier",
+            "entournures",
+            "grand jour",
+            "contraire ce sera un guet-"
+          ],
+          "triggerKeywords": [
+            "combat"
+          ],
+          "createdAt": "2026-02-25T15:23:38.743Z"
+        },
+        {
+          "id": "1772033018743-0bcdc38b3657f",
+          "title": "Scene 35",
+          "notes": "-- 49 of 137 --\n\nEn fonction du scenario choisi voici les situations à gérer.\nSituation 1\nLes aventuriers peuvent utiliser les 2 clés données par Big Axe et se retrouvent dans le garage ou dans la voiture. Si ils restent dans le garage , les gobelins les\ndécouvrent et l’alerte est donnée. Du coup ils doivent prendre Bondo en chasse avec une de ses voitures disponibles. Si ils sont dans la voiture , ils passent 2\njours à l’intérieur de la luxueuse calèche qui contient le luxe d’un logement royal. Le 2eme jour , Big Axe accompagne Bondo au garage et rentre en premier pour\ninspecter la voiture. Il fait mine de ne voir personne et indique a Bondo qu’il peut rentrer dans le véhicule. Les chevaux sont programmés pour arriver au château\net ne s’arrêteront pas. Les aventuriers ont le temps de faire ce qu’ils veulent.\nBondo les menace , les insulte , les supplie , essaie de les corrompre mais la réalité est qu’il n’a aucun moyen de se défendre. Il hurle a la trahison et se met\nmême à pleurer de rage. Si la corruption ne fonctionne pas , il change de ton , un ton bien plus sombre.\n« Vous savez quoi les cloportes , mon maitre s’occupera de vous , et vous souffrirez ! Oh oui vous allez avoir m",
+          "audioTrackId": "",
+          "cardType": "intrigue",
+          "ambiance": "sombre",
+          "imageUrl": "",
+          "mapUrl": "",
+          "trackUrl": "",
+          "attachedCharacterSheetIds": [],
+          "invitedTemplateKeys": [],
+          "sceneKind": "intrigue",
+          "moodHint": "sombre",
+          "npcs": [
+            "Situation",
+            "Big Axe",
+            "Bondo",
+            "Vous",
+            "Voil",
+            "Puis"
+          ],
+          "locations": [
+            "le garage ou dans la voiture",
+            "le garage",
+            "la voiture",
+            "garage et rentre en premier pou",
+            "le véhicule",
+            "château"
+          ],
+          "triggerKeywords": [
+            "trahison"
+          ],
+          "createdAt": "2026-02-25T15:23:38.743Z"
+        },
+        {
+          "id": "1772033018743-1c1412aa237db8",
+          "title": "Scene 36",
+          "notes": "-- 50 of 137 --\n\nBanque\nJ\n\n-- 51 of 137 --\n\nEn fonction du scenario choisi voici les situations à gérer.\nSituation 2\nLes aventuriers se retrouvent dans les appartements de Bondo alors qu’il semble sortir de son bain et qu’il ne porte qu’un peignoir et un collier. Il est vraiment\nfurieux de les voir ici et surtout il hurle sa haine de ses subalternes incapables de remplir leur tâche correctement ! Il jette un coup d’œil à son bureau , ce que\nles aventuriers perçoivent. Puis il se met à courir de manière pathétique pour atteindre le bouton d’alarme situé sur le plateau. Les joueurs n’ont aucun mal à\nl’atteindre avant lui et peuvent le repousser physiquement sans problème. Sur le bureau se trouvent aussi les clés de son véhicule ainsi que des documents\ncompromettants. En effet , on y voit des tableaux avec les intitulés ‘Comptes du conseil de la nuit’. Il porte son médaillon de membre du culte qui dispose du\nmême symbole et des deux faces écrites. Il cherche à corrompre les aventuriers pour avoir la vie sauve. Bondo les menace , les insulte , les supplie , essaie de\nles corrompre mais la réalité est qu’il n’a aucun moyen de se défendre. Il hurle à la trahison et se met même à pleurer",
+          "audioTrackId": "",
+          "cardType": "intrigue",
+          "ambiance": "sombre",
+          "imageUrl": "",
+          "mapUrl": "",
+          "trackUrl": "",
+          "attachedCharacterSheetIds": [],
+          "invitedTemplateKeys": [],
+          "sceneKind": "intrigue",
+          "moodHint": "sombre",
+          "npcs": [
+            "Banque",
+            "Situation",
+            "Bondo",
+            "Puis",
+            "Sur",
+            "Comptes"
+          ],
+          "locations": [
+            "les appartements de Bondo alors",
+            "le plateau",
+            "le bureau se trouvent aussi les",
+            "sa",
+            "garage",
+            "garage du château ou Jarnell l’"
+          ],
+          "triggerKeywords": [
+            "trahison"
+          ],
+          "createdAt": "2026-02-25T15:23:38.743Z"
+        },
+        {
+          "id": "1772033018743-95b63f04dfcb98",
+          "title": "Scene 37",
+          "notes": "-- 52 of 137 --\n\nEn fonction du scenario choisi voici les situations à gérer.\nSituation 3\nPour tuer Big Axe , il faut échafauder un plan avec les 5 Plus Forts. Tuer des patrouilles pour qu’ensuite Big Axe vienne sur le terrain prêter main forte semble le\nmeilleur moyen. Si le plan réussi , Hardlaw doit nommer un nouveau directeur de la sécurité en accord avec Bondo. Cette réunion sera le lieu du guet-apens car\nGor , le plus malin , recrutera des mercenaires pour piéger les aventuriers. Bondo et Hardlaw ne prendront pas part au combat et la salle principale de la\nbanque sera le lieu d’affrontement. Quand les haches et les insultes vont commencer à voler , Hardlaw se refugiera derrière le comptoir tandis que Bondo\nencouragera ses hommes d’une manière frénétique. Si le combat tourne mal pour son équipe , Bondo tentera de fuir de manière pathétique en courant vers le\ngarage. Les aventuriers n’auront aucun mal à le rattraper ni même à le maitriser , même blessés.\nBondo les menace , les insulte , les supplie , essaie de les corrompre mais la réalité est qu’il n’a aucun moyen de se défendre. Il hurle à la trahison et se met\nmême à pleurer de rage. Si la corruption ne fonctionne pas , il c",
+          "audioTrackId": "",
+          "cardType": "combat",
+          "ambiance": "sombre",
+          "imageUrl": "",
+          "mapUrl": "",
+          "trackUrl": "",
+          "attachedCharacterSheetIds": [],
+          "invitedTemplateKeys": [],
+          "sceneKind": "combat",
+          "moodHint": "sombre",
+          "npcs": [
+            "Situation",
+            "Pour",
+            "Big Axe",
+            "Plus Forts",
+            "Tuer",
+            "Hardlaw"
+          ],
+          "locations": [
+            "le terrain prêter main forte se",
+            "combat et la salle principale d",
+            "le",
+            "sa",
+            "garage du château ou Jarnell l’",
+            "point de trahir ceux qui l’ont"
+          ],
+          "triggerKeywords": [
+            "combat",
+            "trahison"
+          ],
+          "createdAt": "2026-02-25T15:23:38.743Z"
+        },
+        {
+          "id": "1772033018743-08a5a3020f94b",
+          "title": "Scene 38",
+          "notes": "-- 53 of 137 --\n\nLa cathédrale\n\n-- 54 of 137 --\n\nLa cathédrale est dans un quartier de la ville légèrement à l’écart mais toujours à l’intérieur des murs. Tout le monde peut y aller à pied s’il le souhaite.\nC’est un quartier calme ou la vie est rythmée par la cloche du bâtiment. Les religieux sont tenus aux ordres du Père Tauros ,\nl’archevêque , et de son cadet le Père Bélios , l’évêque.\nIls sont tous les deux des disciples du dieu Lathandre de la naissance et du renouveau.\nCes deux personnages ont déjà été croisés lors de l’assemblée.\nBien que plus jeune , Bélios fait nettement plus âgé que Tauros. Leur différence physique est aussi frappante.\nBelios Tauros\n\n-- 55 of 137 --\n\nDans la cathédrale il est interdit de parler et le clergé présent respecte a la lettre ce serment.\nLes tenues rouges des religieux sont facilement reconnaissables et tout le monde semble\naffairé dans ce bâtiment.\nLors de l’arrivée des joueurs , Bélios vient les chercher pour les raccompagner dehors avant\nde leur parler.\nQue puis-je pour vous mes amis ? Leur demande-t-il de sa voix faiblarde.\nBélios niera l’existence de tout problème au sein sa paroisse. Il est l’évêque et donc chez lui.\nSon frère archevêque es",
+          "audioTrackId": "",
+          "cardType": "dialogue",
+          "ambiance": "calme",
+          "imageUrl": "",
+          "mapUrl": "",
+          "trackUrl": "",
+          "attachedCharacterSheetIds": [],
+          "invitedTemplateKeys": [],
+          "sceneKind": "dialogue",
+          "moodHint": "calme",
+          "npcs": [
+            "Tout",
+            "Tauros",
+            "Lathandre",
+            "Ces",
+            "Bien",
+            "Leur"
+          ],
+          "locations": [
+            "un quartier de la ville légèrem",
+            "ordres du Père Tauros",
+            "la cathédrale il est interdit d",
+            "lettre ce serment",
+            "ce bâtiment",
+            "sein sa paroisse"
+          ],
+          "triggerKeywords": [],
+          "createdAt": "2026-02-25T15:23:38.743Z"
+        },
+        {
+          "id": "1772033018744-82f16a3fc5716",
+          "title": "Scene 39",
+          "notes": "-- 56 of 137 --\n\nLes paroissiens qui ont interpellé le groupe sont un homme et une femme qui semblent avoir une vingtaine d’année. Ils sont inquiets pour leur ami qui a disparu\net qui semblait divaguer ces derniers temps sur une ombre qui s’abattrait sur la ville entrainant par la suite une série de cataclysmes menant à la fin du\nmonde.\nL’homme s’appelle Hérios et la femme Andrésia. Ce sont deux humains qui semblent paniqué quant au sort de leur ami mais ce sont en réalité deux espions à la\nsolde de Tauros. Un jet difficile DD20 pourrait permettre de déceler la supercherie.\nSi le couple est repéré ils peuvent être combattus comme deux prêtres normaux. En cas de mort du couple , Tauros convoquera le groupe et les combattra\navec un contrôle mental sur Bélios.\nLa cathédrale dispose d’un niveau commun et accessible à tous , ainsi qu’une partie privée qui n’est accessible que par Bélios ou Tauros. Il y a dans cette\npartie leurs appartements ainsi que des salles secrètes ou spéciales.\nLa magie de Bélios est portée vers le sacré car c’est un vrai dévot de Lathandre. La magie de Tauros a été pervertie et il sert désormais les ombres sous\ncouvert de la lumière. Il exerce un contrôle mental",
+          "audioTrackId": "",
+          "cardType": "combat",
+          "ambiance": "neutre",
+          "imageUrl": "",
+          "mapUrl": "",
+          "trackUrl": "",
+          "attachedCharacterSheetIds": [],
+          "invitedTemplateKeys": [],
+          "sceneKind": "combat",
+          "moodHint": "neutre",
+          "npcs": [
+            "Andr",
+            "Tauros",
+            "Lathandre"
+          ],
+          "locations": [
+            "une ombre qui s’abattrait sur l",
+            "sort de leur ami mais ce sont e",
+            "Bélios",
+            "cette",
+            "le sacré car c’est un vrai dévo",
+            "couvert de la lumière"
+          ],
+          "triggerKeywords": [
+            "combat"
+          ],
+          "createdAt": "2026-02-25T15:23:38.744Z"
+        },
+        {
+          "id": "1772033018744-a11b9e569e24c",
+          "title": "Scene 40",
+          "notes": "-- 57 of 137 --\n\nHérios et Andrésia\nEmbuscade dans la cathédrale\n\n-- 58 of 137 --\n\nSi le piège tendu ne fonctionne pas ou que le groupe se désintéresse de cette enquête , Tauros enverra des groupes de 5 moines assassiner les joueurs de\nmanière quotidienne. Si au bout d’une semaine tous les moines sont tués , il convoquera aussi les joueurs de la même manière que si les joueurs avaient tué le\ncouple.\nTauros cherche la confrontation et est sûr de sa force. Il est sûr de pouvoir tuer facilement les aventuriers. Le contrôle mental qu’il exerce sur son jeune frère\nne peut être rompu que par sa mort ou une suppression de magie. Lors de la rupture , Bélios garderait tous les souvenirs qu’il possède et se rangera du côté\ndes aventuriers.\nLa confrontation a lieu dans une des salles privées de la cathédrale. La salle en question est la salle des sacrifices qu’il utilise pour punir ses adeptes lorsqu’il le\nsouhaite. Il prévoit aussi de répondre aux aventuriers avant de les punir.\n« Chers infidèles , vous êtes ici pour recevoir votre punition , et moi , Tauros , serai honoré de vous infliger la souffrance que vous méritez ».\nVoici comment Tauros accueille le groupe lors de son entrée dans la s",
+          "audioTrackId": "",
+          "cardType": "combat",
+          "ambiance": "epique",
+          "imageUrl": "",
+          "mapUrl": "",
+          "trackUrl": "",
+          "attachedCharacterSheetIds": [],
+          "invitedTemplateKeys": [],
+          "sceneKind": "combat",
+          "moodHint": "epique",
+          "npcs": [
+            "Andr",
+            "Embuscade",
+            "Tauros",
+            "Lors",
+            "Chers",
+            "Voici"
+          ],
+          "locations": [
+            "la cathédrale",
+            "bout d’une semaine tous les moi",
+            "son jeune frère",
+            "une des salles privées de la ca",
+            "aventuriers avant de les punir",
+            "la salle"
+          ],
+          "triggerKeywords": [
+            "combat",
+            "embuscade"
+          ],
+          "createdAt": "2026-02-25T15:23:38.744Z"
+        },
+        {
+          "id": "1772033018744-f8e451b61d68",
+          "title": "Scene 41",
+          "notes": "-- 59 of 137 --\n\nVoici ce qu’il peut révéler :\n- Le nom et la composition du culte : Le conseil de la nuit , ses Dix et leur maitre.\n- Le contrôle mental sur Bélios\n- Les points de collectes pour les sacrifiés\n- Le rang et les noms des Dix vaincus\n- La corruption de la ville grâce au blocage que subit Jarnell\n- La proximité de l’attaque du culte « depuis les angles morts de la ville»\nBélios et Tauros en tenue de combat\n\n-- 60 of 137 --\n\nA la fin du combat il y a plusieurs possibilités :\n- Le groupe est vaincu , l’attaque a lieu.\n- Tauros et Bélios sont tués , il faut faire le rapport à Jarnell\n- Seulement Tauros est tué , Bélios se range du côté de Jarnell et lui révèle jusqu’où la trahison se propage.\nDans tous les cas , si Tauros meurt , son médaillon est récupéré.\nJeton 4 : Il arrive , il est là , il vient , « sur la berge 150 pas tout droit »\nSi les deux frères sont tués , la cathédrale tombera à l’abandon et deviendra le lieu de regroupement des misérables en recherche de salut.\nSi Bélios survit , il sera nommé Archevêque à la place de son frère et purgera l’Eglise de son mal.\n\n-- 61 of 137 --\n\nLes égouts\n\n-- 62 of 137 --\n\nLes rumeurs font état de disparitions dans les rangs d",
+          "audioTrackId": "",
+          "cardType": "combat",
+          "ambiance": "sombre",
+          "imageUrl": "",
+          "mapUrl": "",
+          "trackUrl": "",
+          "attachedCharacterSheetIds": [],
+          "invitedTemplateKeys": [],
+          "sceneKind": "combat",
+          "moodHint": "sombre",
+          "npcs": [
+            "Voici",
+            "Dix",
+            "Jarnell",
+            "Tauros",
+            "Seulement Tauros",
+            "Dans"
+          ],
+          "locations": [
+            "Bélios",
+            "blocage que subit Jarnell",
+            "fin du combat il y a plusieurs",
+            "tous les cas",
+            "la berge 150 pas tout droit »",
+            "les rangs de la garde de la vil"
+          ],
+          "triggerKeywords": [
+            "combat",
+            "trahison"
+          ],
+          "createdAt": "2026-02-25T15:23:38.744Z"
+        },
+        {
+          "id": "1772033018744-caac8726a6c808",
+          "title": "Scene 42",
+          "notes": "-- 63 of 137 --\n\nPort du Roi\nCathédrale\nChâteau fort\nEcoles\nQuartier du\ncommerce\nBanque\nQuartier\ndes nobles\nHôpital\nPlace des\nspectacles\nArène\nInvocation morte-vivante\nLocalisation des Soeurcieres\n\n-- 64 of 137 --\n\nPort du Roi\nCathédrale\nChâteau fort\nEcoles\nQuartier du\ncommerce\nBanque\nQuartier\ndes nobles\nHôpital\nPlace des\nspectacles\nArène\nCartes des égouts et localisation\ndes charniers\n\n-- 65 of 137 --\n\nLe guidage se fait en fonction des directions prises par les joueurs. Il n’existe pas de carte et ils doivent dire vers quelle direction ils progressent.\nHormis les sœurs au centre , il existe donc 5 charniers gardés chacun par une invocation mortuaire. Ces charniers se trouvent au nord du centre , au nord-est\ndu centre , au nord-ouest du centre , au sud-est du centre et au sud-ouest du centre.\nIl n’y a pas de piège et les égouts sont relativement bien entretenus alors que plus personne n’y vient.\nLes invocations sont les suivantes :\nReine liche au nord\nHorde de zombies au nord est\nCompagnie d’élite squelettique au nord-ouest\nGolem de la mort au sud est\nMonstruosité cadavérique au sud-ouest\nLa compagnie squelettique est une ancienne troupe de la garde royale et dispose d’un capitain",
+          "audioTrackId": "",
+          "cardType": "narration",
+          "ambiance": "neutre",
+          "imageUrl": "",
+          "mapUrl": "",
+          "trackUrl": "",
+          "attachedCharacterSheetIds": [],
+          "invitedTemplateKeys": [],
+          "sceneKind": "narration",
+          "moodHint": "neutre",
+          "npcs": [
+            "Port",
+            "Roi\nCath",
+            "Ecoles\nQuartier",
+            "Banque\nQuartier",
+            "Place",
+            "Invocation"
+          ],
+          "locations": [
+            "quelle direction ils progressen",
+            "centre",
+            "nord du centre",
+            "nord-est",
+            "nord-ouest du centre",
+            "sud-est du centre et au sud-oue"
+          ],
+          "triggerKeywords": [],
+          "createdAt": "2026-02-25T15:23:38.744Z"
+        },
+        {
+          "id": "1772033018744-4f3eeefaec42f8",
+          "title": "Scene 43",
+          "notes": "-- 66 of 137 --\n\nReine liche Bataillon squelettique Horde de zombies\nMonstruosité morte-vivante Golem de Mort\n\n-- 67 of 137 --\n\nFrancisca , sorcière de la mort Francesca , sorcière du sang\n\n-- 68 of 137 --\n\nIci , pas de chaudron ou de grenouille , seulement du sang , beaucoup et de partout. Des morts aussi. Certains récents et d’autres putréfiés. Une odeur atroce\nde plusieurs odeurs désagréables mélangées et de magie noire. Des flambeaux autour de la pièce et 2 paires d’yeux vicieux qui fixent le groupe lorsqu’ils\nentrent dans la salle des sacrifices. Les deux sœurs chuchotent quelques mots et les accès se ferment grâce à de lourdes portes en fer.\nFrancesca et Francisca ont préparé leurs défenses et sont sures de l’emporter. Elles s’adressent aux joueurs et attendent des réponses. Sans réponse de leur\npart elles engageront le combat.\n« Mais qui êtes-vous donc jeunes freluquets pour ainsi entrer dans la demeure de gentes dames ?\nQue nous voulez-vous ? Etes-vous là pour être sacrifiés ?\nVous venez servir le maitre dans votre autre vie ? Ou êtes-vous là pour essayer de nous arrêter ? cela pourrait nous distraire..\nNotre travail est déjà terminé ici mais que pensez-vous de venir grossi",
+          "audioTrackId": "",
+          "cardType": "combat",
+          "ambiance": "sombre",
+          "imageUrl": "",
+          "mapUrl": "",
+          "trackUrl": "",
+          "attachedCharacterSheetIds": [],
+          "invitedTemplateKeys": [],
+          "sceneKind": "combat",
+          "moodHint": "sombre",
+          "npcs": [
+            "Reine",
+            "Bataillon",
+            "Horde",
+            "Monstruosit",
+            "Golem",
+            "Mort"
+          ],
+          "locations": [
+            "la salle des sacrifices",
+            "joueurs et attendent des répons",
+            "la demeure de gentes dames ?",
+            "votre autre vie ? Ou êtes-vous",
+            "centre de la pièce et lanceront",
+            "culte de la nuit qui sert un ma"
+          ],
+          "triggerKeywords": [
+            "combat"
+          ],
+          "createdAt": "2026-02-25T15:23:38.744Z"
+        },
+        {
+          "id": "1772033018744-86d9f20697b2",
+          "title": "Scene 44",
+          "notes": "-- 69 of 137 --\n\nLes Soeurcieres\nLes Soeurcieres ont invoqué des runes de garde de feu autour de leur autel. Ce sont des pièges à pression , ce qui veut dire que chaque piège est\ndéclenché lorsque quelqu’un pose le pied dedans. Il suffit de jeter quelque chose dessus pour les dissiper. Les Soeurcieres rient aux éclats en voyant\nles aventuriers faire le désamorçage.\nElles font aussi des démonstrations de leurs pouvoirs en faisant danser du sang ou des cadavres devant les joueurs.\n\n-- 70 of 137 --\n\nLes sorcières n’utilisent pas leurs bras pour lancer des sorts mais uniquement des mots. Il faudra les décapiter pour les tuer et il faudra aussi tuer la sorcière\nde sang qui fera tout pour régénérer sa sœur alors qu’au mieux la sorcière de la mort relèvera sa sœur en tant que zombie.\nUne fois vaincues , on pourra les fouiller et trouver les médaillons 5 et 6\nJeton 6 : Ses pas feront trembler la lumière « 90° droite 100 pas »\nJeton 5 : Sa noirceur illuminera les ténèbres « nage tout droit 100 brasses »\nLes invocations restantes sont démantelées et tombent en poussière d’os. Les seuls objets restants sont les bracelets de la mère de Jarnell et les armes et\narmures de l’escadron royal. Si on",
+          "audioTrackId": "",
+          "cardType": "narration",
+          "ambiance": "sombre",
+          "imageUrl": "",
+          "mapUrl": "",
+          "trackUrl": "",
+          "attachedCharacterSheetIds": [],
+          "invitedTemplateKeys": [],
+          "sceneKind": "narration",
+          "moodHint": "sombre",
+          "npcs": [
+            "Les Soeurcieres",
+            "Jeton",
+            "Ses",
+            "Jarnell",
+            "Cela",
+            "Bracelet"
+          ],
+          "locations": [
+            "les joueurs",
+            "mieux la sorcière de la mort re",
+            "prince",
+            "armoiries gravées dessus",
+            "le maitre du culte"
+          ],
+          "triggerKeywords": [],
+          "createdAt": "2026-02-25T15:23:38.744Z"
+        },
+        {
+          "id": "1772033018744-0ecbb58e599b4",
+          "title": "Scene 45",
+          "notes": "-- 71 of 137 --\n\nLe quartier des nobles\n\n-- 72 of 137 --\n\nDes fleurs jonchent les allées vertes de pelouse de ce quartier. Un doux parfum flotte dans les airs et les habitants affichent tous un grand sourire en\ns’affairant à leurs tâches. Des bâtisses anciennes portant chacune les armoiries de la famille sont dressées les unes proches des autres formant ainsi le\nquartier des nobles. Seul le manoir d’Elrich Fierepierre est dans un état lamentable et d’ailleurs les gens l’évitent. La plupart de ces familles datent de la\nfondation de la ville et ont été récompensées par le premier Roi avec des postes à responsabilité ainsi qu’une place à la cour. Les familles rencontrées lors\nde l’assemblée résident toutes dans ce quartier. Tout le monde connait tout le monde ici et l’arrivée des joueurs n’est pas vue d’un bon œil car après tout ,\nles nobles n’aiment pas se mêler au peuple.\nIl y a un problème de disparition ici et quelques personnes n’ont jamais été revues alors qu’elles étaient sorties pour affaires. Cependant comme cela ne\ntouche que des membres mineurs des familles , l’affaire n’a pas été ébruitée et les nobles espèrent que Jarnell règlera cette affaire au plus vite.\n\n-- 73 of 137",
+          "audioTrackId": "",
+          "cardType": "exploration",
+          "ambiance": "neutre",
+          "imageUrl": "",
+          "mapUrl": "",
+          "trackUrl": "",
+          "attachedCharacterSheetIds": [],
+          "invitedTemplateKeys": [],
+          "sceneKind": "exploration",
+          "moodHint": "neutre",
+          "npcs": [
+            "Seul",
+            "Elrich Fierepierre",
+            "Roi",
+            "Tout",
+            "Cependant",
+            "Jarnell"
+          ],
+          "locations": [
+            "les airs et les habitants affic",
+            "un état lamentable et d’ailleur",
+            "ce quartier",
+            "peuple",
+            "plus vite",
+            "papier"
+          ],
+          "triggerKeywords": [
+            "donjon"
+          ],
+          "createdAt": "2026-02-25T15:23:38.744Z"
+        },
+        {
+          "id": "1772033018744-0e7e010cd80518",
+          "title": "Scene 46",
+          "notes": "-- 74 of 137 --\n\nSans commune mesure de politesse , elle prend la parole.\n« Venez , nous avons à parler. J’ai des informations pour vous et je répondrai à vos questions si vous le souhaitez ».\nPuis elle se met en marche vers son laboratoire dans lequel brille un boulet sur un piédestal central.\n« Mon boulet a vu des choses , plein de choses. Et mes amis aussi ont vu des choses. Vous avez bien fait de venir. Posez vos questions puis après\nce sera mon tour ».\nPortina explique son activité de démoniste. Elle a une affinité naturelle avec les démons et la magie. Si elle pense à un démon , il prendra forme devant elle ,\nidem pour des sortilèges. Si la magie convoquée est supérieure à sa réserve de magie , alors elle mourra. Le fait qu’elle soit un prodige de la magie lui confère\nune intelligence supérieure et une compréhension instantanée des situations. Elle ne dégage aucune émotion depuis la mort accidentelle de ses parents\nlorsqu’elle était une très jeune enfant et qu’elle avait malencontreusement brulé son père et sa mère dans une vague de flammes du chaos. Elle a le droit\nd’exercer son activité normalement interdite car Jarnell la considère malgré son jeune âge comme un talent de l",
+          "audioTrackId": "",
+          "cardType": "dialogue",
+          "ambiance": "sombre",
+          "imageUrl": "",
+          "mapUrl": "",
+          "trackUrl": "",
+          "attachedCharacterSheetIds": [],
+          "invitedTemplateKeys": [],
+          "sceneKind": "dialogue",
+          "moodHint": "sombre",
+          "npcs": [
+            "Sans",
+            "Venez",
+            "Puis",
+            "Mon",
+            "Vous",
+            "Posez"
+          ],
+          "locations": [
+            "son laboratoire dans lequel bri",
+            "un piédestal central",
+            "elle",
+            "une vague de flammes du chaos",
+            "le commerce de la magie et beau",
+            "son utilisation"
+          ],
+          "triggerKeywords": [],
+          "createdAt": "2026-02-25T15:23:38.744Z"
+        },
+        {
+          "id": "1772033018744-9252cd25cef3f8",
+          "title": "Scene 47",
+          "notes": "-- 75 of 137 --\n\nLa demande de Portina sonne comme un ordre aux oreilles des aventuriers. Cependant ils peuvent décider par eux-mêmes d’accomplir ou d’ignorer cette\nmission.\nA la fin de la réunion , Portina congédie les joueurs et leur dit qu’elle les aidera grâce à son boulet autant qu’elle le peut et qu’elle leur donne une carte\nmagique qui s’activera seule.\nDeux démons mineurs raccompagnent les aventuriers poliment jusqu’à la porte d’entrée qui est ensuite scellée magiquement. Il va falloir maintenant décider\nce que fait la troupe.\nVoici ce que voient les joueurs en ouvrant la carte.\n\n-- 76 of 137 --\n\nRien ne se passe tant que les joueurs ne s’approchent pas de chez Elrich.\nLors de leur arrivée , aucun brouillard n’est visible , bien au contraire la vue est totalement dégagée. Sa maison est la plus éloignée de la ville mais aussi la\nplus proche de la mer. Derrière elle , il y a une sorte de jardin et tout au fond , une réserve fermée par les grilles des remparts.\nLa garde y stocke du matériel en vrac et ne semble pas être venue depuis longtemps vu l’entassement des objets à cet endroit. Cependant la grille est\nouverte.\nLa demeure d’Elrich est délabrée mais il y vit toujours. On",
+          "audioTrackId": "",
+          "cardType": "narration",
+          "ambiance": "neutre",
+          "imageUrl": "",
+          "mapUrl": "",
+          "trackUrl": "",
+          "attachedCharacterSheetIds": [],
+          "invitedTemplateKeys": [],
+          "sceneKind": "narration",
+          "moodHint": "neutre",
+          "npcs": [
+            "Portina",
+            "Cependant",
+            "Deux",
+            "Voici",
+            "Rien",
+            "Elrich"
+          ],
+          "locations": [
+            "oreilles des aventuriers",
+            "fin de la réunion",
+            "contraire la vue est totalement",
+            "fond",
+            "un",
+            "milieu de son salon crade"
+          ],
+          "triggerKeywords": [],
+          "createdAt": "2026-02-25T15:23:38.744Z"
+        },
+        {
+          "id": "1772033018745-83af263f074848",
+          "title": "Scene 48",
+          "notes": "-- 77 of 137 --\n\nLa jarre magique avait une seule fonction : maintenir les sorts lancés dans cette zone. Le camouflage magique et la beuverie ont certainement été lancés par la\nmême personne mais malheureusement Elrich ne voit absolument pas de qui il s’agit.\nEn examinant la jarre , on peut y voir une signature en petit en bas avec un DD15 de détection.\nSous le pied de la jarre il y est écrit Mr Pottery , Quartier des commerces Kotrya.\nSi les joueurs vont chercher la boutique , ils trouvent une échoppe tout à fait normale tenue par une demi-elfe nommée Brisalia\nDortris. Elle est la veuve de Alellan Dortris qui a été assassiné sans raison apparente un jour au marché. Elle maintient l’activité\nen son souvenir mais vit un peu recluse maintenant.\nBrisalia a son idée du motif de l’assassinat de son mari. Un jour , une elfe riche est venue demander la fabrication d’une\namphore dans une matière spécifique , le Laen Argenté. Il est impossible d’en trouver dans le commerce tant il est rare\net cher , et souvent ce minerai se transmet de génération en génération comme une relique.\nL’elfe n’avait pas remarquée Brisalia qui était dans l’atelier et Alellan avait touché une belle somme pour cet o",
+          "audioTrackId": "",
+          "cardType": "narration",
+          "ambiance": "neutre",
+          "imageUrl": "",
+          "mapUrl": "",
+          "trackUrl": "",
+          "attachedCharacterSheetIds": [],
+          "invitedTemplateKeys": [],
+          "sceneKind": "narration",
+          "moodHint": "neutre",
+          "npcs": [
+            "Elrich",
+            "Sous",
+            "Pottery",
+            "Quartier",
+            "Kotrya",
+            "Brisalia\nDortris"
+          ],
+          "locations": [
+            "cette zone",
+            "le pied de la jarre il y est éc",
+            "marché",
+            "une matière spécifique",
+            "le commerce tant il est rare",
+            "l’atelier et Alellan avait touc"
+          ],
+          "triggerKeywords": [],
+          "createdAt": "2026-02-25T15:23:38.745Z"
+        },
+        {
+          "id": "1772033018745-e7712bed19905",
+          "title": "Scene 49",
+          "notes": "-- 78 of 137 --\n\nLes aventuriers peuvent faire leur rapport à Myrko et Jarnell ou Portina. Ils apporteront chacun des éléments de réponse différents.\nMyrko et Jarnell seront chamboulés par la nouvelle car la seule famille d’elfes nobles dans la ville est celle de Myria , qui est la promise de Jarnell lui-même. Ils\ndemanderont la plus grande discrétion car leur pouvoir dans la cité est très important. Ils recommandent d’en parler à Portina.\nPortina de son côté expliquera que le seul mage assez puissant pour réaliser une telle prouesse dans la ville est son ami Joris. Elle recommande d’en parler à\nJarnell. Elle met aussi la carte à jour.\nUne fois les rapports faits , Un message est transmis par un coursier aux aventuriers par Orguna.\n« Rendez-vous ce soir dans mon magasin en ville dès la fermeture »\n\n-- 79 of 137 --\n\n-- 80 of 137 --\n\nOrguna avait été plutôt sympathique lors de l’assemblée et vu le style de l’écriture , il semblerait que le message soit vrai.\nEn réalité c’est un piège tendu contre les aventuriers qui subiront l’attaque de plusieurs assassins en chemin. Orguna n’est au courant de rien et il sera facile de\nle deviner en parlant avec elle après l’attaque.\nLes assassins a",
+          "audioTrackId": "",
+          "cardType": "combat",
+          "ambiance": "neutre",
+          "imageUrl": "",
+          "mapUrl": "",
+          "trackUrl": "",
+          "attachedCharacterSheetIds": [],
+          "invitedTemplateKeys": [],
+          "sceneKind": "combat",
+          "moodHint": "neutre",
+          "npcs": [
+            "Myrko",
+            "Jarnell",
+            "Portina",
+            "Myria",
+            "Joris",
+            "Elle"
+          ],
+          "locations": [
+            "la ville est celle de Myria",
+            "la cité est très important",
+            "la ville est son ami Joris",
+            "aventuriers par Orguna",
+            "mon magasin en ville dès la fer",
+            "courant de rien et il sera faci"
+          ],
+          "triggerKeywords": [],
+          "createdAt": "2026-02-25T15:23:38.745Z"
+        },
+        {
+          "id": "1772033018745-854c17c3245088",
+          "title": "Scene 50",
+          "notes": "-- 81 of 137 --\n\nLa traque des assassins\nLa traque des assassins lors du trajet jusqu’au magasin d’Orguna n’est pas un combat. C’est une succession de tentatives de meurtres contre les joueurs. Les\ndagues acérées sortent de la foule pour frapper et disparaitre aussitôt. Chaque joueur recevra une série de 5 coups de plus en plus précis. Il faut faire un\nDD10 esquive au premier coup puis 1 de plus à chaque fois pour éviter les coups. Si les joueurs trouvent une technique pertinente , alors ils peuvent mettre fin à\nl’assaut car les assassins ne chercheront pas la confrontation directe. Sans possibilité d’être couverts , les attaques cesseront.\n\n-- 82 of 137 --\n\nAux premières lueurs du jour , Orguna attire l’attention des joueurs pour leur dire que c’est le meilleur moment pour fuir ce quartier. Il y a moins de\nmonde et plus de patrouilles , les assassins ne tenteront rien à ce moment de la journée.\nLes aventuriers se retrouvent libres de leur choix maintenant soit continuer l’enquête ou confronter la famille Rindorel. Malheureusement sans preuve\ntangible , Jarnell refusera d’aller plus loin mais il encourage à continuer l’enquête. Il indique que Portina pourrait aider à trouver le sor",
+          "audioTrackId": "",
+          "cardType": "combat",
+          "ambiance": "neutre",
+          "imageUrl": "",
+          "mapUrl": "",
+          "trackUrl": "",
+          "attachedCharacterSheetIds": [],
+          "invitedTemplateKeys": [],
+          "sceneKind": "combat",
+          "moodHint": "neutre",
+          "npcs": [
+            "Orguna",
+            "Chaque",
+            "Sans",
+            "Aux",
+            "Rindorel",
+            "Malheureusement"
+          ],
+          "locations": [
+            "magasin d’Orguna n’est pas un c",
+            "premier coup puis 1 de plus à c",
+            "premières lueurs du jour",
+            "le manoir de Portina",
+            "place",
+            "un tabouret la tête baissée"
+          ],
+          "triggerKeywords": [
+            "combat"
+          ],
+          "createdAt": "2026-02-25T15:23:38.745Z"
+        },
+        {
+          "id": "1772033018745-9ceb6bfdaccdd8",
+          "title": "Scene 51",
+          "notes": "-- 83 of 137 --\n\nJoris relâche l’emprise de la rune en riant à gorge déployée.\n« Sans rancune mes amis , je sais qui vous êtes et ce que vous faites , ce que je ne sais pas , c’est combien de temps vous aller continuer à le faire\navant de passer l’arme à gauche.\nJe me présente Joris Flammecoeur , maître de cette adorable petite Portina et accessoirement membre du conseil de la ville et aussi noble parce\nque mon père a fait des choses bien avant moi et aussi commerçant dans le textile parce que il faut se diversifier un peu et avoir du style dans la vie\net aussi anciennement meilleur ami de Jarnell et aussi … Bref , je vous présente mes excuses pour vous avoir piégés comme des rats mais c’était\npurement pédagogique … et aussi amusant »\nCe personnage haut en couleurs est d’une puissance rare. Il est un mage d’élite mais il semble animé de bonnes intentions. Il reste écouter ce que les joueurs\nvenaient dire à Portina.\n« Allez-y , faites comme si je n’étais pas là ! C’est extrêmement palpitant de vous voir vous affairer comme ça ! Bravo ! ».\nLes joueurs font leur rapport à Portina qui lève un sourcil et jette un regard de coté à Joris … qui devient tout pâle.\n« Maitre ? …. Dit-elle d’u",
+          "audioTrackId": "",
+          "cardType": "narration",
+          "ambiance": "neutre",
+          "imageUrl": "",
+          "mapUrl": "",
+          "trackUrl": "",
+          "attachedCharacterSheetIds": [],
+          "invitedTemplateKeys": [],
+          "sceneKind": "narration",
+          "moodHint": "neutre",
+          "npcs": [
+            "Joris",
+            "Sans",
+            "Joris Flammecoeur",
+            "Portina",
+            "Jarnell",
+            "Bref"
+          ],
+          "locations": [
+            "le textile parce que il faut se",
+            "la vie",
+            "la bouche",
+            "la table",
+            "ville"
+          ],
+          "triggerKeywords": [],
+          "createdAt": "2026-02-25T15:23:38.745Z"
+        },
+        {
+          "id": "1772033018745-d7e2219c8aa2a8",
+          "title": "Scene 52",
+          "notes": "-- 84 of 137 --\n\nPuis il relève la tête dignement en fronçant les sourcils avant de se lancer dans des explications.\n« Alors il est possible , voire même probable que je sois ce mage. Mais attention , moi tout ce que je voulais c’était m’attirer la sympathie de Lyana ,\nelle est tellement … enfin vous voyez. Bref , elle m’a demandé si je savais faire un sort de maintien de magie et enchanter un objet avec. Donc oui\ntrop facile , après tout ce qu’il faut faire c’est lancer un sort sur l’objet et il devient ensuite permanent dans une petite zone. Ça dépend de la\nquantité de Laen argenté utilisé pour l’objet. Elle m’a dit que c’était pour avoir un sort d’obscurité permanent dans sa chambre et que j’aurai peut-\nêtre un jour la chance de la voir à l’intérieur. Ne me jugez pas ! Vous auriez fait pareil ! Jarnell va me tuer …. »\nPortina demande aux joueurs de ne rien dire à Jarnell et que Joris ira lui-même s’expliquer. Après-tout la raison est tellement triviale que ce n’est pas possible\nqu’il soit coupable de trahison pour une chose comme ça. Cependant , les soupçons sur la famille Rindorel s’alourdissent.\nIl va falloir éclaircir tout ça en infiltrant leur demeure ou en les compromettant",
+          "audioTrackId": "",
+          "cardType": "intrigue",
+          "ambiance": "neutre",
+          "imageUrl": "",
+          "mapUrl": "",
+          "trackUrl": "",
+          "attachedCharacterSheetIds": [],
+          "invitedTemplateKeys": [],
+          "sceneKind": "intrigue",
+          "moodHint": "neutre",
+          "npcs": [
+            "Puis",
+            "Alors",
+            "Mais",
+            "Lyana",
+            "Bref",
+            "Donc"
+          ],
+          "locations": [
+            "des explications",
+            "l’objet et il devient ensuite p",
+            "une petite zone",
+            "sa chambre et que j’aurai peut-",
+            "joueurs de ne rien dire à Jarne",
+            "la famille Rindorel s’alourdiss"
+          ],
+          "triggerKeywords": [
+            "trahison"
+          ],
+          "createdAt": "2026-02-25T15:23:38.745Z"
+        },
+        {
+          "id": "1772033018745-6ab6a8437f8f2",
+          "title": "Scene 53",
+          "notes": "-- 85 of 137 --\n\nDans une salle d’entrainement , les joueurs trouvent les deux personnages en train de prier.\nOrchal et Aribelle\nTous deux sont en armure et semblent reciter en chœur des versés sacrés. La pièce elle-même semble illuminée de l’intérieur. Leur parler ne les\ninterrompt pas et ils continuent ainsi de longues minutes. Ils s’arrêtent seulement si ils vont au bout de leur texte ou s’ils sont touchés.\nDans les deux cas , ces personnages sont serviables et humbles. Aribelle semble tellement lointaine des descriptions faites de ses sœurs.\nOrchal se relève et cet immense drakeide demande de sa grosse voix bienveillante :\n« Que souhaitez-vous mes amis , qu’est-ce que la lumière peut faire pour vous ? »\n\n-- 86 of 137 --\n\nAribelle reste stoïque lorsque les joueurs racontent comment ils en sont arrivés là. Elle écoute sans dire un mot. Orchal lui lance parfois un regard pour voir\nses réactions. Le fait qu’elle n’en ait pas est un signe que sa formation a porté ses fruits.\n« Aribelle , l’heure est venue. Nous savions que ce moment viendrait et ton entrainement tout entier était dirigé pour ça. N’aie aucune crainte car\nla lumière est en toi. Si tu vacilles alors je te tiendrai la m",
+          "audioTrackId": "",
+          "cardType": "dialogue",
+          "ambiance": "neutre",
+          "imageUrl": "",
+          "mapUrl": "",
+          "trackUrl": "",
+          "attachedCharacterSheetIds": [],
+          "invitedTemplateKeys": [],
+          "sceneKind": "dialogue",
+          "moodHint": "neutre",
+          "npcs": [
+            "Dans",
+            "Orchal",
+            "Aribelle\nTous",
+            "Leur",
+            "Aribelle",
+            "Que"
+          ],
+          "locations": [
+            "une salle d’entrainement",
+            "bout de leur texte ou s’ils son",
+            "les deux cas",
+            "l’obscurité des ténèbres",
+            "la lumière d’apporter leur aide",
+            "monde"
+          ],
+          "triggerKeywords": [],
+          "createdAt": "2026-02-25T15:23:38.745Z"
+        },
+        {
+          "id": "1772033018746-0a578f6e06b",
+          "title": "Scene 54",
+          "notes": "-- 87 of 137 --\n\n« Cela doit cesser. Notre nom doit retrouver de l’honneur et arrêter d’être associé aux tâches sans nom. Je suis prête à renverser mes sœurs\navec votre concours et celui d’Orchal. Nous pourrons tirer parti de la rivalité entre Myria et Lyria mais je pense que c’est Myria qui détient les\nrennes. Elle a toujours été la plus douée pour l’art familial. Mais il nous faut de preuves ! De plus , elle s’est positionnée pour être la prochaine\nreine du royaume. Et la destituer ne sera pas une tâche aisée.\nAinsi , je vais rentrer à la demeure familiale et chercher quelque chose qui pourra nous aider. De votre côté , tenez-vous prêts à intervenir mais\nrestez sur vos gardes , mes sœurs enverront leurs assassins si elles se sentent traquées. »\nOrchal a semblé apprécier le discours de son ancienne élève. Il déclare avoir son plan de son côté pour apporter son aide et qu’il formera lui-même le 3eme\ngroupe de cette purge.\nAribelle salue tout le monde avec grâce et se retire pour débuter sa mission\nOrchal salue à son tour les joueurs et disparait d’un pas lent dans les couloirs du château.\nLes joueurs doivent maintenant décider quoi faire , suivre les ordres de Aribelle et se poster",
+          "audioTrackId": "",
+          "cardType": "combat",
+          "ambiance": "sombre",
+          "imageUrl": "",
+          "mapUrl": "",
+          "trackUrl": "",
+          "attachedCharacterSheetIds": [],
+          "invitedTemplateKeys": [],
+          "sceneKind": "combat",
+          "moodHint": "sombre",
+          "npcs": [
+            "Cela",
+            "Notre",
+            "Orchal",
+            "Nous",
+            "Myria",
+            "Lyria"
+          ],
+          "locations": [
+            "tâches sans nom",
+            "vos gardes",
+            "les couloirs du château",
+            "coucher de soleil se fait sans",
+            "milieu de la nuit jusqu’au mome",
+            "le cachot de la tour et est tor"
+          ],
+          "triggerKeywords": [
+            "combat"
+          ],
+          "createdAt": "2026-02-25T15:23:38.746Z"
+        },
+        {
+          "id": "1772033018746-1c4d2ef9587348",
+          "title": "Scene 55",
+          "notes": "-- 89 of 137 --\n\n-- 90 of 137 --\n\nUne fois les 4 assassins vaincus , Lyria lance ses orbes sur deux joueurs au hasard. En cas de réussite , le joueur se retrouve\nà terre électrocuté et incapable de bouger.\nEn combat singulier Lyria est une voleuse classique. Quand elle est vaincue , elle explose d’émotions entre rage , tristesse ,\nregrets , rancœur , haine etc. Des flots d’insultes et de menaces sont déversés avant qu’elle rende son dernier souffle.\nLes joueurs peuvent ensuite essayer d’aider Aribelle en la portant jusqu’à l’hôpital mais elle mourra en chemin , ou de rester\nauprès d’elle et panser ses blessures. S’ils font ça , avant de mourir , Orchal arrivera pour la soigner grâce à une\nintervention divine.\nLyria ne porte absolument rien sur elle a part ses vêtements. Elle était juste une mauvaise personne.\nSi les joueurs choisissent d’attendre les cris avant d’intervenir , ils combattent toujours les 4 voleurs dans l’entrée et sont ensuite attirés par l’origine des\ncris d’Aribelle.\n\n-- 91 of 137 --\n\nLors de l’arrivée dans la salle , Lyria se retourne et commence à expliquer pourquoi elle fait cela a sa sœur et que les aventuriers sont les prochains , mais\npendant son discours le",
+          "audioTrackId": "",
+          "cardType": "combat",
+          "ambiance": "mystere",
+          "imageUrl": "",
+          "mapUrl": "",
+          "trackUrl": "",
+          "attachedCharacterSheetIds": [],
+          "invitedTemplateKeys": [],
+          "sceneKind": "combat",
+          "moodHint": "mystere",
+          "npcs": [
+            "Lyria",
+            "Quand",
+            "Aribelle",
+            "Orchal",
+            "Elle",
+            "Lors"
+          ],
+          "locations": [
+            "deux joueurs au hasard",
+            "elle a part ses vêtements",
+            "l’entrée et sont ensuite attiré",
+            "la salle",
+            "une charge sainte traverse le g",
+            "un des discours dont il a le se"
+          ],
+          "triggerKeywords": [
+            "combat"
+          ],
+          "createdAt": "2026-02-25T15:23:38.746Z"
+        },
+        {
+          "id": "1772033018746-c79ec9a308c678",
+          "title": "Scene 56",
+          "notes": "-- 92 of 137 --\n\nLors de leur ascension vers le sommet , les aventuriers combattent des serviteurs voleurs qui leur tendent des embuscades. La porte des appartements de\nMyria est piégée par un dard empoisonné. Lorsqu’ils entrent , ils voient une silhouette venir vers eux depuis les ténèbres.\nMyria s’approche lentement d’eux , armée de ses dagues enduites de poison.\n« Vous , votre arrivée dans cette ville a perturbé les plans du maitre ! Comment\nOsez-vous nous défier ! J’ai reçu l’ordre de vous exécuter moi-même vu que mes\npantins ont échoué. J’ai manipulé tout le monde depuis ma naissance , et vous\npensez que vous , pauvres gueux allez entraver mon dessein ? Vous ne sortirez pas\nd’ici vivants … »\nMyria enclenche une rune de verrouillage du bâtiment et disparait dans l’ombre.\n« Vous êtes mes proies , sur mon terrain de chasse , avec mes règles. Vous pouvez\ncommencer à prier. »\nLes joueurs doivent décider de fuir pour retourner dans l’entrée en réussissant des DD 15-\n20 pour éviter de subir des attaques depuis les ombres imparables.\nAu bout de 5 esquives , ils arrivent en bas. Orchal saisit immédiatement la situation et\nactive un bouclier de lumière qui englobe le groupe ainsi qu’Ari",
+          "audioTrackId": "",
+          "cardType": "combat",
+          "ambiance": "neutre",
+          "imageUrl": "",
+          "mapUrl": "",
+          "trackUrl": "",
+          "attachedCharacterSheetIds": [],
+          "invitedTemplateKeys": [],
+          "sceneKind": "combat",
+          "moodHint": "neutre",
+          "npcs": [
+            "Lors",
+            "Myria",
+            "Lorsqu",
+            "Vous",
+            "Comment\nOsez",
+            "Orchal"
+          ],
+          "locations": [
+            "le sommet",
+            "eux depuis les ténèbres",
+            "cette ville a perturbé les plan",
+            "l’ombre",
+            "mon terrain de chasse",
+            "l’entrée en réussissant des DD"
+          ],
+          "triggerKeywords": [
+            "combat",
+            "embuscade"
+          ],
+          "createdAt": "2026-02-25T15:23:38.746Z"
+        },
+        {
+          "id": "1772033018746-028569b2adc66",
+          "title": "Scene 57",
+          "notes": "-- 93 of 137 --\n\nMyria étant découverte et se sentant piégée lance ses dagues sur Jarnell qu’il dévie avec son épée puis elle s’immobilise.\n« Puisque c’est comme ça … alors ainsi soit-il… »\nElle sort une petite mixture depuis l’intérieur de son collier et la boit.\n« Vous ne saurez rien , vous ne vous rendrez compte de rien…. D’absolument … rien … »\nElle s’écroule sur elle-même , la fiole de poison a agi instantanément. Les joueurs repèrent le médaillon à son cou qui est semblable à ceux déjà récoltés auprès\ndes autres membres du culte. Il s’agit du Jeton 3 : Nous sommes impatients de te servir dans la non-vie « colle toi au mur de droite 50 pas pour éviter la\nmort »\nJarnell s’approche du corps de Myria et reste un moment abaissé en silence. Ensuite il remercie tout le groupe et particulièrement Orchal qui a encore été\nhéroïque aujourd’hui. Il demande la permission de fouiller le manoir des Rindorel afin de trouver divers indices sur cette secte , ce que Aribelle accepte sans\naucune hésitation. Pour terminer , il convoque tous les gens présents dès demain matin après une nuit de sommeil bien méritée pour un conseil de guerre\nréduit.\nLe lendemain , aux abords du château , la garde es",
+          "audioTrackId": "",
+          "cardType": "intrigue",
+          "ambiance": "neutre",
+          "imageUrl": "",
+          "mapUrl": "",
+          "trackUrl": "",
+          "attachedCharacterSheetIds": [],
+          "invitedTemplateKeys": [],
+          "sceneKind": "intrigue",
+          "moodHint": "neutre",
+          "npcs": [
+            "Myria",
+            "Jarnell",
+            "Puisque",
+            "Elle",
+            "Vous",
+            "Jeton"
+          ],
+          "locations": [
+            "Jarnell qu’il dévie avec son ép",
+            "elle-même",
+            "la non-vie « colle toi au mur d",
+            "cette secte",
+            "abords du château",
+            "le château car ils sont reconnu"
+          ],
+          "triggerKeywords": [],
+          "createdAt": "2026-02-25T15:23:38.746Z"
+        },
+        {
+          "id": "1772033018746-8b86c89d3a14",
+          "title": "Scene 58",
+          "notes": "-- 94 of 137 --\n\nLa forêt\n\n-- 95 of 137 --\n\n« Tout d’abord , je voulais vous dire que le motif de ce conseil surprise n’a pas été dévoilé car cette réunion doit être la plus secrète possible\nafin de ne pas faire sombrer la cité dans la panique. Je ne vais pas y aller par quatre chemins … Nous sommes attaqués. Nous savons par qui.\nMais nous ne savons ni comment , ni quand , ni pourquoi. Et c’est pour ça que j’ai besoin de vous. Fini les méthodes douces et démocratiques , il\nest question de sauver mon peuple et j’emploierai tous les moyens possibles pour y parvenir. »\nUn silence particulièrement pesant écrase l’assemblée. Le ton de Jarnell est martial voir même dictatorial. Les gens présents ici ont compris qu’il ne\nferait pas bon se mettre en travers de son chemin comme lors de la précédente assemblée. L’heure n’est pas à la discussion ni à la négociation mais bien\nà l’obéissance et à l’action.\n« Nous avons pu enquêter grâce à dame Aribelle Rindorel dans les documents personnels de sa sœur … Myria … et nous avons trouvé une mine\nd’informations considérables. Avec le concours de nos amis récemment arrivés nous avons aussi pu épingler une grande partie des décideurs\nde cette maudite s",
+          "audioTrackId": "",
+          "cardType": "narration",
+          "ambiance": "sombre",
+          "imageUrl": "",
+          "mapUrl": "",
+          "trackUrl": "",
+          "attachedCharacterSheetIds": [],
+          "invitedTemplateKeys": [],
+          "sceneKind": "narration",
+          "moodHint": "sombre",
+          "npcs": [
+            "Tout",
+            "Nous",
+            "Mais",
+            "Fini",
+            "Jarnell",
+            "Aribelle Rindorel"
+          ],
+          "locations": [
+            "la panique",
+            "les documents personnels de sa",
+            "la nature et qu’ils continueron",
+            "la pièce pour regarder dans les",
+            "sort que le seigneur"
+          ],
+          "triggerKeywords": [],
+          "createdAt": "2026-02-25T15:23:38.746Z"
+        },
+        {
+          "id": "1772033018746-ce86b68f0aa6",
+          "title": "Scene 59",
+          "notes": "-- 96 of 137 --\n\nUne vague de murmures de contestation commence à s’élever lorsque Jarnell tape du poing sur la table pour ramener le silence.\n« Ceux qui refuseront de se soumettre à ce sort seront enfermés dans les geôles pour le restant de leurs jours. Ceux qui n’ont rien à se\nreprocher ne craignent rien. Les autres seront confinés au château et traité dans le plus grand des respects s’ils livrent des informations. Sinon ,\nce sera la punition pour haute trahison. Pour vous montrer , je vais commencer ! »\nPortina et Joris expliquent le fonctionnement du sort à tout le monde et commencent sur Jarnell. Une lumière bleue jaillit du sol sous les pieds du prince et à\nla question posée , il répond simplement ‘non’. Les deux sorciers se lancent le sort aussi pour la même réponse. Vient le tour de Myrko , puis d’Orchal et\nAribelle sur qui ne pesait aucun soupçon , à juste titre. Le sortilège est lancé sur tous les dignitaires jusqu’à ce qu’il ne reste qu’Orijo qui avait tout tenté pour\npasser en dernier.\n« A vous chef de guilde désormais ». Ordonne sévèrement Jarnell.\nLe sort est lancé contre son gré sur le représentant des aubergistes de la ville. Le ‘non’ qui sorti de sa bouche laissa p",
+          "audioTrackId": "",
+          "cardType": "dialogue",
+          "ambiance": "sombre",
+          "imageUrl": "",
+          "mapUrl": "",
+          "trackUrl": "",
+          "attachedCharacterSheetIds": [],
+          "invitedTemplateKeys": [],
+          "sceneKind": "dialogue",
+          "moodHint": "sombre",
+          "npcs": [
+            "Jarnell",
+            "Ceux",
+            "Sinon",
+            "Pour",
+            "Portina",
+            "Joris"
+          ],
+          "locations": [
+            "la table pour ramener le silenc",
+            "les geôles pour le restant de l",
+            "château et traité dans le plus",
+            "Jarnell",
+            "les pieds du prince et à",
+            "qui ne pesait aucun soupçon"
+          ],
+          "triggerKeywords": [
+            "trahison"
+          ],
+          "createdAt": "2026-02-25T15:23:38.746Z"
+        },
+        {
+          "id": "1772033018746-cbee3b1ddccf78",
+          "title": "Scene 60",
+          "notes": "-- 97 of 137 --\n\nOrijo devient blême sur ces paroles. Sa duplicité a été découverte et son avenir a semblé s’assombrir d’un coup lors de cette réunion. Sentant sa vie en danger , il\ndû se mettre à parler.\n« Ok ok , j’vais vous dire c’que j’sais. Mais j’ai rien fais moi Sire. J’vais collaborer parce que j’ai pas envie qu’on m’traine dans la boue. Donc j’vous\nexplique. J’ai un grand Frère qui s’appelle Stryko , c’est un vrai dur ce gars-là , j’crois qu’il traine avec les gars dont vous avez parlé.\nIl est v’nu m’voir quelques fois à la taverne pour m’raconter un peu c’qu’il faisait et si j’pouvais lui rendre deux trois services mais vous m’connaissez\nAltesse , j’suis un gars droit moi alors même si c’est mon frère j’ai dit non! »\n« Orijo , je vous ai dit qu’on avait des preuves , au prochain mensonge je vous enferme au cachot et vous ne reverrez plus jamais le jour. »\n« Donc j’lui rends ces quelques services , mais c’était pas grand-chose. Il voulait des vivres pour son équipe , du matos pour travailler et des infos\npour être à jour des dernières nouvelles quoi. J’allais pas laisser mon frère crever non plus mon Prince ! »\n« Dites-nous quelque chose d’intéressant Orijo , dernière chan",
+          "audioTrackId": "",
+          "cardType": "dialogue",
+          "ambiance": "calme",
+          "imageUrl": "",
+          "mapUrl": "",
+          "trackUrl": "",
+          "attachedCharacterSheetIds": [],
+          "invitedTemplateKeys": [],
+          "sceneKind": "dialogue",
+          "moodHint": "calme",
+          "npcs": [
+            "Orijo",
+            "Sentant",
+            "Mais",
+            "Sire",
+            "Donc",
+            "Stryko"
+          ],
+          "locations": [
+            "ces paroles",
+            "la boue",
+            "prochain mensonge je vous enfer",
+            "cachot et vous ne reverrez plus",
+            "la forêt",
+            "cachots du château par deux gar"
+          ],
+          "triggerKeywords": [
+            "taverne"
+          ],
+          "createdAt": "2026-02-25T15:23:38.746Z"
+        },
+        {
+          "id": "1772033018746-0769b6b8d17cd",
+          "title": "Scene 61",
+          "notes": "-- 98 of 137 --\n\n« Très bien , nous avons notre cible et sa localisation. Myrko , organisez une attaque , et allez me déloger ces malfrats de notre forêt. Il est temps de\nmontrer notre force ! Les autres membres de cet honorable conseil peuvent retourner à leurs affaires mais je vous implore de garder les yeux\nouverts et de rester vigilants. »\nTout le monde se lève et part mais Jarnell demande aux joueurs d’attendre pour s’entretenir seul à seul avec eux. Une fois tout le monde sorti , il ferme la porte\net retourne s’assoir sur sa chaise. Il demande aux joueurs de faire pareil.\n« Mes amis , vous ne me devez rien. Vous n’êtes même pas de mes sujets. Et pourtant vous avez déjà tellement fait pour cette ville.. Je ne peux en\nparler qu’à vous car les autres pourraient mal percevoir la nouvelle. Mais dans les affaires de feu ma fiancée Myria , nous avons trouvé l’identité\nd’un des membres et cela me soulève le cœur rien que d’en parler…. Mon propre frère … Celui que j’ai assassiné et qui avait sombré dans la\ndémence. Il semblerait qu’il soit aussi un des leurs. Et j’ai peur d’en déduire que s’il est en vie , alors … le roi peut aussi l’être. Cela pose plusieurs\nproblèmes. Si mon père re",
+          "audioTrackId": "",
+          "cardType": "combat",
+          "ambiance": "mystere",
+          "imageUrl": "",
+          "mapUrl": "",
+          "trackUrl": "",
+          "attachedCharacterSheetIds": [],
+          "invitedTemplateKeys": [],
+          "sceneKind": "combat",
+          "moodHint": "mystere",
+          "npcs": [
+            "Myrko",
+            "Tout",
+            "Jarnell",
+            "Mes",
+            "Vous",
+            "Mais"
+          ],
+          "locations": [
+            "joueurs d’attendre pour s’entre",
+            "sa chaise",
+            "joueurs de faire pareil",
+            "les affaires de feu ma fiancée",
+            "la",
+            "la forêt"
+          ],
+          "triggerKeywords": [],
+          "createdAt": "2026-02-25T15:23:38.746Z"
+        },
+        {
+          "id": "1772033018747-c68b94ab7c5888",
+          "title": "Scene 62",
+          "notes": "-- 99 of 137 --\n\n-- 100 of 137 --\n\nDans la soirée , il y a de l’agitation autour de la porte ouest. L’escadron commandé par Myrko est déjà revenu , de plus les secours d’urgence sont appelés. Les\nsurvivants sont amenés à l’hôpital et pris en charge par l’unité médicale du docteur Zigerova.\nUne fois Jarnell au courant de la situation , il fait chercher les joueurs en ville pour les faire venir à l’hôpital avec lui.\nQuand ils arrivent , la scène est choquante. Seulement 4 chevaliers dont Myrko sont revenus vivants. Les blessures visibles sur les soldats présents sont tout\naussi bien des brulures que des flèches et même des morsures. Myrko est le moins touché. Il a « simplement » reçu une flèche dans le bras et une autre dans la\ncuisse.\n« Seigneur, je suis désolé , je n’ai pas pu sauver plus de soldats. Des lors que la\nbataille était perdue , j’ai ordonné la retraite , mais c’est là que le piège s’est refermé\nsur nous. J’ai vu celui qui nous a fait ça depuis la forêt. C’était un homme seul , un loup\nsolitaire , un chasseur. Il avait piégé le terrain et nous sommes tombés dedans. Il a\nutilisé des pièges explosifs et il commandait aux animaux. Il se déplaçait dans les\nfourrés tout en ti",
+          "audioTrackId": "",
+          "cardType": "combat",
+          "ambiance": "tension",
+          "imageUrl": "",
+          "mapUrl": "",
+          "trackUrl": "",
+          "attachedCharacterSheetIds": [],
+          "invitedTemplateKeys": [],
+          "sceneKind": "combat",
+          "moodHint": "tension",
+          "npcs": [
+            "Dans",
+            "Myrko",
+            "Zigerova",
+            "Jarnell",
+            "Quand",
+            "Seulement"
+          ],
+          "locations": [
+            "la soirée",
+            "courant de la situation",
+            "les soldats présents sont tout",
+            "le bras et une autre dans la",
+            "nous",
+            "animaux"
+          ],
+          "triggerKeywords": [
+            "urgence"
+          ],
+          "createdAt": "2026-02-25T15:23:38.747Z"
+        },
+        {
+          "id": "1772033018747-902e56a39828e",
+          "title": "Scene 63",
+          "notes": "-- 101 of 137 --\n\nL’ordre de Jarnell est ferme. Il va falloir aller débusquer ce chasseur qui a battu à lui seul un escadron d’élite. Cependant le prince compte aider le groupe en\nmettant à disposition plusieurs éclaireurs. Ils sont entrainés et connaissent la forêt. L’erreur stratégique militaire de Jarnell ne se reproduira pas et il enverra\ndes petits groupes discrets plutôt qu’une troupe massive. Une fois les préparatifs nécessaires réalisés , un briefing stratégique a lieu au château.\nJarnell déroule une carte de la forêt et donne ses ordres.\nIl y aura 4 équipes d’espions et chaque espion aura son éclaireur.\nLes points d’insertions dans la forêt sont attribués en fonction de la\ncouleur de l’équipe. Il y a l’équipe rouge , la bleue , la verte et la jaune.\nLes joueurs héritent de la bleue. Il pointe sur la carte par des croix les\naccès des équipes. Il présente aussi les éclaireurs aux groupes\nd’espions.\n\n-- 102 of 137 --\n\nUne fois les équipes constituées , Jarnell souhaite la réussite de tous les groupes afin qu’ils puissent ramener la paix autour de la ville.\nJuste avant de partir , Orchal se présente devant le groupe et vient les bénir avec une bénédiction de discrétion qui sel",
+          "audioTrackId": "",
+          "cardType": "combat",
+          "ambiance": "neutre",
+          "imageUrl": "",
+          "mapUrl": "",
+          "trackUrl": "",
+          "attachedCharacterSheetIds": [],
+          "invitedTemplateKeys": [],
+          "sceneKind": "combat",
+          "moodHint": "neutre",
+          "npcs": [
+            "Jarnell",
+            "Cependant",
+            "Juste",
+            "Orchal",
+            "Drakeide",
+            "Pour"
+          ],
+          "locations": [
+            "château",
+            "la forêt sont attribués en fonc",
+            "la carte par des croix les",
+            "groupes",
+            "le groupe et vient les bénir av",
+            "la forêt"
+          ],
+          "triggerKeywords": [
+            "combat"
+          ],
+          "createdAt": "2026-02-25T15:23:38.747Z"
+        },
+        {
+          "id": "1772033018747-5b8d441a515ac8",
+          "title": "Scene 64",
+          "notes": "-- 104 of 137 --\n\nLa forêt\nLa forêt est piégée de partout. Il faut demander aux joueurs des\ndirections grâce aux points cardinaux et surtout la manière dont ils\nprocèdent. Ils peuvent perdre leurs éclaireurs très rapidement.\nLes pièges tuent les éclaireurs qui sont cependant capables de prévenir\nque la zone pourrait être piégée.\nLe commandement des joueurs est absolu et les éclaireurs ne\ndésobéiront jamais même si cela conduit à leur mort.\n\n-- 105 of 137 --\n\nMercenaires de Stryko\n\n-- 106 of 137 --\n\nDès la mort du Loup , Le camp principal envoie des groupes de chasseurs à travers toute la forêt pour contre-attaquer. Il s’agit de plusieurs escadrons de 5\ncombattants entrainés. Il est possible de les éviter en se cachant car ils vont avancer lentement mais ils ne détecteront pas des personnages embusqués. Ils\nferont des rondes autour du camp principal qui se trouve dans la clairière ouest.\nA l’approche du camp , les joueurs s’aperçoivent que leur groupe est le dernier en vie. Tous les hommes et femmes des autres équipes ont été empalés\nautour du camp pour montrer ce qui arrivent à ceux qui s’opposent aux brigands.\nPlusieurs groupes sont restés en faction dans le camp. Les meilleurs so",
+          "audioTrackId": "",
+          "cardType": "combat",
+          "ambiance": "sombre",
+          "imageUrl": "",
+          "mapUrl": "",
+          "trackUrl": "",
+          "attachedCharacterSheetIds": [],
+          "invitedTemplateKeys": [],
+          "sceneKind": "combat",
+          "moodHint": "sombre",
+          "npcs": [
+            "Mercenaires",
+            "Stryko",
+            "Loup",
+            "Tous",
+            "Plusieurs",
+            "Orijo"
+          ],
+          "locations": [
+            "joueurs des",
+            "points cardinaux et surtout la",
+            "la clairière ouest",
+            "brigands",
+            "le camp",
+            "les bois et a monté"
+          ],
+          "triggerKeywords": [
+            "combat"
+          ],
+          "createdAt": "2026-02-25T15:23:38.747Z"
+        },
+        {
+          "id": "1772033018747-6d03794d401c6",
+          "title": "Scene 65",
+          "notes": "-- 107 of 137 --\n\nLors du combat contre Stryko , à chaque tour il utilisera une action bonus pour faire apparaitre 2 soldats faibles qui lanceront une charge sur les personnages\nles plus proches de leur chef.\nMême lors de sa mort , Stryko ne dira rien. Sa transformation cessera et il reprendra forme humaine en riant grassement entre deux quintes de toux\nensanglantée. Il dira quand même que sa mort ne change rien et que le sanctuaire ne peut pas être profané par des gens qui servent les faibles. Il possède le\nJeton 2 : Seigneurs de la Guerre et du Sang nous nous soumettons « actionne les 2 leviers en même temps ou meurs »\nLes informations doivent être rapportées à Jarnell. Le groupe des joueurs est le seul à revenir. Le royaume a payé un lourd tribu avec la perte de soldats\nd’élites dans cette forêt. Le reste des brigands présents se dispersera à la mort de Stryko et quitteront la forêt.\nLe prince accueillera le retour des joueurs avec une joie mesurée mais sincère. En effet , certains de ses meilleurs soldats ont perdu la vie dans la forêt et en\ntant que seigneur proche de ses hommes et de son peuple , cela le touche , tout comme Myrko. Cependant , la menace est peut être toujours",
+          "audioTrackId": "",
+          "cardType": "combat",
+          "ambiance": "sombre",
+          "imageUrl": "",
+          "mapUrl": "",
+          "trackUrl": "",
+          "attachedCharacterSheetIds": [],
+          "invitedTemplateKeys": [],
+          "sceneKind": "combat",
+          "moodHint": "sombre",
+          "npcs": [
+            "Lors",
+            "Stryko",
+            "Jeton",
+            "Seigneurs",
+            "Guerre",
+            "Sang"
+          ],
+          "locations": [
+            "les personnages",
+            "cette forêt",
+            "la forêt et en",
+            "sa salle de réunion",
+            "le quartier des",
+            "sein de l’état"
+          ],
+          "triggerKeywords": [
+            "combat"
+          ],
+          "createdAt": "2026-02-25T15:23:38.747Z"
+        },
+        {
+          "id": "1772033018747-646528a5d61d58",
+          "title": "Scene 66",
+          "notes": "-- 109 of 137 --\n\n« Voilà , vous avez certainement reconnu les deux noms dans cette liste… Mon frère , et mon père. J’ai pourtant moi-même mis fin à leurs vies\nlorsqu’ils sont devenus fous et je vois leurs noms dans les rangs ennemis. Je peux comprendre leur haine envers moi et la ville , mais je ne\ncomprends pas comment ils peuvent être en vie. Bien que mon père soit devenu un mage nécromancien , je ne supposais pas qu’li soit capable de\nrevenir d’entre les morts et également de ramener à la vie mon frère. Je dois vous mettre en garde mes amis. Mon frère était extrêmement fort ,\npeut-être même le plus fort que la ville ait connu. Il était d’une puissance absurde au point de manipuler les portes de la ville seul ou même de briser\nde la roche entre ses mains. Quand il a sombré dans la folie , seul mon père arrivait a le raisonner. Il a commis de nombreux meurtres lors\nd’entrainements car il ne retenait pas sa puissance. Son esprit vaincu , il ne restait que rage et tristesse dans son être.\nQuant à mon père , sa longue vie et ses pouvoirs nouvellement acquis feront de lui un adversaire mortel. Il était un combattant d’élite , qui semble\nêtre devenu un mage redoutable. Il a été aussi",
+          "audioTrackId": "",
+          "cardType": "combat",
+          "ambiance": "neutre",
+          "imageUrl": "",
+          "mapUrl": "",
+          "trackUrl": "",
+          "attachedCharacterSheetIds": [],
+          "invitedTemplateKeys": [],
+          "sceneKind": "combat",
+          "moodHint": "neutre",
+          "npcs": [
+            "Voil",
+            "Mon",
+            "Bien",
+            "Quand",
+            "Son",
+            "Quant"
+          ],
+          "locations": [
+            "cette liste… Mon frère",
+            "les rangs ennemis",
+            "point de manipuler les portes d",
+            "la folie",
+            "son être",
+            "la même personne qui a eu le te"
+          ],
+          "triggerKeywords": [
+            "combat"
+          ],
+          "createdAt": "2026-02-25T15:23:38.747Z"
+        },
+        {
+          "id": "1772033018747-3876206220ea4",
+          "title": "Scene 67",
+          "notes": "-- 110 of 137 --",
+          "audioTrackId": "",
+          "cardType": "narration",
+          "ambiance": "neutre",
+          "imageUrl": "",
+          "mapUrl": "",
+          "trackUrl": "",
+          "attachedCharacterSheetIds": [],
+          "invitedTemplateKeys": [],
+          "sceneKind": "narration",
+          "moodHint": "neutre",
+          "npcs": [],
+          "locations": [],
+          "triggerKeywords": [],
+          "createdAt": "2026-02-25T15:23:38.747Z"
+        },
+        {
+          "id": "1772033018747-f206295c2a1f38",
+          "title": "ACTE 3 : Purification du mal",
+          "notes": "ACTE 3 : Purification du mal\n\n-- 111 of 137 --\n\nUne fois les préparatifs terminés , les joueurs sont prêts à donner l’assaut sur le sanctuaire ennemi. Cependant , comme il manque le médaillon 1 , ils sont en\ndroit de réfléchir à la stratégie. Il y a 2 options pour eux , suivre les instructions des jetons ou attendre et participer à la défense de la ville.\nS’ils suivent les jetons , alors Jarnell 2 sera au bout du dernier couloir en train de garder la porte du sanctuaire.\nS’ils attendent , alors il mènera l’assaut contre la ville depuis les geôles du château.\nDans le cas où les joueurs restent en défense , la journée et la nuit passent sans le moindre incident. Vers 2 heures du matin , alors que la ville est endormie et\nque les patrouilles sont plus rares , un fracas assourdissant vient perturber la nuit. Une voix rauque et puissante pousse un cri d’outre-tombe tandis que des\ncliquetis et des sifflements commencent à se faire entendre.\nIl faut définir ou se trouvent les joueurs à ce moment-là en lançant 2d8 pour les situer par rapport à la carte\nJarnell 2 se retrouve dans le château et massacre à vue tous les vaillants qui se mettent en travers de sa route.\nSa force est telle que ch",
+          "audioTrackId": "",
+          "cardType": "combat",
+          "ambiance": "neutre",
+          "imageUrl": "",
+          "mapUrl": "",
+          "trackUrl": "",
+          "attachedCharacterSheetIds": [],
+          "invitedTemplateKeys": [],
+          "sceneKind": "combat",
+          "moodHint": "neutre",
+          "npcs": [
+            "Purification",
+            "Cependant",
+            "Jarnell",
+            "Dans",
+            "Vers",
+            "Mais"
+          ],
+          "locations": [
+            "le sanctuaire ennemi",
+            "bout du dernier couloir en trai",
+            "le cas où les joueurs restent e",
+            "le château et massacre à vue to",
+            "des cris de douleur atroce",
+            "la ville"
+          ],
+          "triggerKeywords": [
+            "combat"
+          ],
+          "createdAt": "2026-02-25T15:23:38.747Z"
+        },
+        {
+          "id": "1772033018747-4b2b9d02b7e27",
+          "title": "Scene 69",
+          "notes": "-- 112 of 137 --\n\nUne fois arrivés au château , les joueurs trouvent une scène insoutenable de violence. Jarnell 2 est assailli\nde valeureux gardes aussitôt frappés par sa force destructrice. Le médaillon qui se balance à son cou\nsemble être similaire à ceux obtenus sur les autres membres. Son corps est transpercé à plusieurs endroits\net il semble affaibli mais sa folie meurtrière continue. Il est un corps ressuscité et décérébré et n’aura de\ncesse que de suivre sa mission , tuer son frère.\nLe prince fini par se montrer mais arrive par la porte principale car il était en ville au moment de l’attaque\nen train d’organiser ses défenses.\nIl reconnait immédiatement son frère et se fige à sa vue.\n« les morts sont venus se venger , et c’est à cause de moi … » lâche-t-il.\nLes aventuriers se rendent compte de qui est l’assaillant à ce moment-là.\nLors d’un coup d’épée circulaire , Jarnell 3 remarque son jeune frère et commence à le charger malgré les\ncoups de lances reçus de partout dans son corps. Il ne visera que sa cible maintenant qu’il l’a vue et il faudra\nl’abattre au plus vite. Le prince ne peut bloquer que quelques coups et il faudra décapiter le géant pour\nstopper son massacre. La m",
+          "audioTrackId": "",
+          "cardType": "combat",
+          "ambiance": "sombre",
+          "imageUrl": "",
+          "mapUrl": "",
+          "trackUrl": "",
+          "attachedCharacterSheetIds": [],
+          "invitedTemplateKeys": [],
+          "sceneKind": "combat",
+          "moodHint": "sombre",
+          "npcs": [
+            "Jarnell",
+            "Son",
+            "Lors",
+            "Jeton",
+            "Que"
+          ],
+          "locations": [
+            "château",
+            "les autres membres",
+            "moment de l’attaque",
+            "son corps",
+            "plus vite",
+            "prix de nombreuses vies"
+          ],
+          "triggerKeywords": [],
+          "createdAt": "2026-02-25T15:23:38.747Z"
+        },
+        {
+          "id": "1772033018747-0215937670f758",
+          "title": "Scene 70",
+          "notes": "-- 113 of 137 --\n\nSi les joueurs se lancent à la recherche du mal en suivant les ordres des médaillons , ils retournent dans la forêt et cherchent l’arbre millénaire. Il est\nimmense par rapport aux autres et visible de loin , au centre de la forêt.\nC’est le point d’entrée du labyrinthe utilisé par le culte comme base principale.\nIci , la lumière ne peut pas exister. Autour d’eux , les joueurs sentent le vide profond , l’humidité ,\nla puanteur des cadavres ainsi que le regard perçant d’ennemis prêts à les éviscérer.\nLe non-respect des consignes entrainera une chute d’une dizaine de mètres et la mort du joueur\nqui est tombé car il sera assailli de plusieurs centaines de morts vivants qui ne laisseront de lui\nqu’un petit tas de chair sanguinolente.\nUne voix d’outre-tombe dictera les règles du donjon.\nSi la traversée se passe bien , ils se présenteront devant Jarnell 2 qui gardera la salle\nd’audience. Il sera sous sa forme normale mais il restera impressionnant par sa stature.\n\n-- 114 of 137 --\n\nLe donjon de la nuit\nLe donjon de la nuit permet d’atteindre Jarnell 1er en suivant les instructions. Le joueur qui parle fait avancer uniquement son personnage.\nLe donjon est noyé dans un sort",
+          "audioTrackId": "",
+          "cardType": "combat",
+          "ambiance": "sombre",
+          "imageUrl": "",
+          "mapUrl": "",
+          "trackUrl": "",
+          "attachedCharacterSheetIds": [],
+          "invitedTemplateKeys": [],
+          "sceneKind": "combat",
+          "moodHint": "sombre",
+          "npcs": [
+            "Ici",
+            "Autour",
+            "Jarnell",
+            "Conseil"
+          ],
+          "locations": [
+            "la forêt et cherchent l’arbre m",
+            "autres et visible de loin",
+            "centre de la forêt",
+            "Jarnell 2 qui gardera la salle",
+            "sa forme normale mais il rester",
+            "un sort de Ténèbres qui aveugle"
+          ],
+          "triggerKeywords": [
+            "combat",
+            "donjon"
+          ],
+          "createdAt": "2026-02-25T15:23:38.747Z"
+        },
+        {
+          "id": "1772033018748-2b7ea8c4810458",
+          "title": "Scene 71",
+          "notes": "-- 115 of 137 --\n\nJeton 10 : Tu fais partie des nôtres , tu lui appartiens « au cœur de la foret , côté sud du grand arbre millénaire »\nJeton 9 : Ta vie lui servira et il te récompensera , « soulève la porte du conclave et enfonce-toi dans les ténèbres 100 pas »\nJeton 8 : Avec lui vient le temps de la fin « 90° à gauche 50 pas »\nJeton 7 : Sa force secouera le monde , « 90° droite 200 pas »\nJeton 6 : Ses pas feront trembler la lumière « 90° droite 100 pas »\nJeton 5 : Sa noirceur illuminera les ténèbres « nage tout droit 100 brasses »\nJeton 4 : Il arrive , il est là , il vient , « sur la berge 150 pas tout droit »\nJeton 3 : Nous sommes impatients de te servir dans la non-vie « colle toi au mur de droite 50 pas pour éviter la mort »\nJeton 2 : Seigneurs de la guerre et du sang nous nous soumettons « actionne les 2 leviers en même temps ou meurs »\nJeton 1 : Que le sang pleuve et que la non-vie règne « une fois la porte levée le mot de passe est ORCUS »\nANNEXE 1\nTABLEAU DES JETONS\n\n-- 116 of 137 --\n\nIl ne parlera pas et agrippera ses armes des qu’il verra les étrangers dans le sanctuaire. La porte derrière lui est immense et le levier qui semble l’actionner\nne l’est pas moins.\nC’est un g",
+          "audioTrackId": "",
+          "cardType": "dialogue",
+          "ambiance": "sombre",
+          "imageUrl": "",
+          "mapUrl": "",
+          "trackUrl": "",
+          "attachedCharacterSheetIds": [],
+          "invitedTemplateKeys": [],
+          "sceneKind": "dialogue",
+          "moodHint": "sombre",
+          "npcs": [
+            "Jeton",
+            "Avec",
+            "Ses",
+            "Nous",
+            "Seigneurs",
+            "Que"
+          ],
+          "locations": [
+            "cœur de la foret",
+            "les ténèbres 100 pas »",
+            "la berge 150 pas tout droit »",
+            "la non-vie « colle toi au mur d",
+            "le sanctuaire",
+            "le vide pour le tuer soit en ve"
+          ],
+          "triggerKeywords": [],
+          "createdAt": "2026-02-25T15:23:38.748Z"
+        },
+        {
+          "id": "1772033018748-5546c0f85bdfe8",
+          "title": "Scene 72",
+          "notes": "-- 117 of 137 --\n\nA peine arrivés dans la salle d’audience , la porte se referme derrière le groupe et se retrouve scellée par magie. Une silhouette encapuchonnée apparait\nderrière un cristal brillant d’une lueur malsaine. Avant qu’une voix déformée par les ténèbres ne vienne briser cet instant pesant.\n« Vous ! Je savais que vous viendriez. Je savais que tenteriez d’imposer la\nlumière dans ce sanctuaire. Je savais que mon bâtard de fils régicide essaierait\nde finir ce qu’il a été incapable de faire à l’époque. Vous êtes ses limiers , ses\nlaquais. Et vous allez mourir pour ça car nul ne doit pénétrer ici impunément\nsans en être digne. Mais avant cela , faites connaissance avec mon épouse , la\nmagnifique reine Cyrekine.\nJe suis devenu un nécromancien pour tenter de\nla ressusciter , et j’y suis parvenu. J’ai\nressuscité mon ainé , ce que je referai autant\nde fois qu’il le faudra et ce n’est pas vous qui\nm’empêcherez d’accomplir le désir de mon\nmaitre en guise de paiement de ma dette pour\nmon pouvoir reçu !\nTREMBLEZ DEVANT MA HAINE\n\n-- 118 of 137 --\n\nLa stratégie de combat du Roi Jarnell consiste à laisser son épouse lancer des éclairs de mort tandis que lui invoque des squelettes comba",
+          "audioTrackId": "",
+          "cardType": "combat",
+          "ambiance": "sombre",
+          "imageUrl": "",
+          "mapUrl": "",
+          "trackUrl": "",
+          "attachedCharacterSheetIds": [],
+          "invitedTemplateKeys": [],
+          "sceneKind": "combat",
+          "moodHint": "sombre",
+          "npcs": [
+            "Avant",
+            "Vous",
+            "Mais",
+            "Cyrekine",
+            "Roi Jarnell",
+            "Quand"
+          ],
+          "locations": [
+            "la salle d’audience",
+            "ce sanctuaire",
+            "MA HAINE",
+            "corps à corps",
+            "une botte",
+            "le néant et la mort prendra enf"
+          ],
+          "triggerKeywords": [
+            "combat"
+          ],
+          "createdAt": "2026-02-25T15:23:38.748Z"
+        },
+        {
+          "id": "1772033018748-b269af98a3f158",
+          "title": "Scene 73",
+          "notes": "-- 119 of 137 --\n\nLa sortie de la pièce mène sur un long couloir , qui ne fait aucun virage pendant plusieurs longues minutes pour donner une grosse porte entrouverte. Cette\nporte donne sur une petite salle fermée par des pierres tout autour mais une lueur attire facilement l’attention des joueurs à travers les interstices de la\nroche. En frappant dessus ils parviendront à briser le mur et se retrouveront dans les geôles du château si ils ont suivi la voie 1. Si ils ont suivi la voie 2 , le\nmur est déjà brisé.\nEn retournant dans la salle d’audience du château , ils retrouvent le pince Jarnell plus héroïque que jamais , qui a survécu à l’attaque , participé aux combats\net qui coordonne les secours maintenant.\nIl est temps de lui faire le rapport fatidique qui annonce la fin des temps …\nCe qu’il entend l’accable\nJarnell s’adosse a un mur , se laisse tomber par terre , regarde les aventuriers …\n« Mes amis , j’ai besoin de vous .. »\n\n-- 120 of 137 --\n\nANNEXES : Butin , lore , évènements spéciaux\n\n-- 121 of 137 --\n\nPERSONNAGES PRINCIPAUX\nLes héros\nL’émissaire des ombres , Kyra « la belle » , gladiatrice de niveau moyen mais très séduisante\nLe prince de Kotrya , Jarnell 3 combattant émér",
+          "audioTrackId": "",
+          "cardType": "combat",
+          "ambiance": "sombre",
+          "imageUrl": "",
+          "mapUrl": "",
+          "trackUrl": "",
+          "attachedCharacterSheetIds": [],
+          "invitedTemplateKeys": [],
+          "sceneKind": "combat",
+          "moodHint": "sombre",
+          "npcs": [
+            "Cette",
+            "Jarnell",
+            "Mes",
+            "Butin",
+            "Kyra",
+            "Kotrya"
+          ],
+          "locations": [
+            "un long couloir",
+            "une petite salle fermée par des",
+            "les geôles du château si ils on",
+            "la salle d’audience du château",
+            "combats"
+          ],
+          "triggerKeywords": [
+            "combat"
+          ],
+          "createdAt": "2026-02-25T15:23:38.748Z"
+        },
+        {
+          "id": "1772033018748-a2a6888b1328a",
+          "title": "Scene 74",
+          "notes": "-- 122 of 137 --\n\nJeton 10 : Tu fais partie des nôtres , tu lui appartiens « au cœur de la foret , côté sud du grand arbre millénaire »\nJeton 9 : Ta vie lui servira et il te récompensera , « soulève la porte du conclave et enfonce-toi dans les ténèbres 100 pas »\nJeton 8 : Avec lui vient le temps de la fin « 90° à gauche 50 pas »\nJeton 7 : Sa force secouera le monde , « 90° droite 200 pas »\nJeton 6 : Ses pas feront trembler la lumière « 90° droite 100 pas »\nJeton 5 : Sa noirceur illuminera les ténèbres « nage tout droit 100 brasses »\nJeton 4 : Il arrive , il est là , il vient , « sur la berge 150 pas tout droit »\nJeton 3 : Nous sommes impatients de te servir dans la non-vie « colle toi au mur de droite 50 pas pour éviter la mort »\nJeton 2 : Seigneurs de la guerre et du sang nous nous soumettons « actionne les 2 leviers en même temps ou meurs »\nJeton 1 : Que le sang pleuve et que la non-vie règne « une fois la porte levée le mot de passe est ORCUS »\nANNEXE 1\nTABLEAU DES JETONS\n\n-- 123 of 137 --\n\nANNEXES : Butin\n\n-- 124 of 137 --\n\nEpée à 2 mains de Jarnell\nCette épée se nomme : « Courage »\nElle a pour effet d’immuniser à la\npeur et tout autre effet de lâcheté.\nElle rajoute 1d10 aux dé",
+          "audioTrackId": "",
+          "cardType": "exploration",
+          "ambiance": "sombre",
+          "imageUrl": "",
+          "mapUrl": "",
+          "trackUrl": "",
+          "attachedCharacterSheetIds": [],
+          "invitedTemplateKeys": [],
+          "sceneKind": "exploration",
+          "moodHint": "sombre",
+          "npcs": [
+            "Jeton",
+            "Avec",
+            "Ses",
+            "Nous",
+            "Seigneurs",
+            "Que"
+          ],
+          "locations": [
+            "cœur de la foret",
+            "les ténèbres 100 pas »",
+            "la berge 150 pas tout droit »",
+            "la non-vie « colle toi au mur d",
+            "dégâts",
+            "la main gauche"
+          ],
+          "triggerKeywords": [],
+          "createdAt": "2026-02-25T15:23:38.748Z"
+        },
+        {
+          "id": "1772033018748-d91dc593a5d598",
+          "title": "Scene 75",
+          "notes": "-- 125 of 137 --\n\nEpée longue de Kyra Epée courte de Kyra\nKyra possède « Beauté »\ndepuis son plus jeune\nâge. Cette épée donne un\nbonus en charisme de +2\net rajoute 1d4 dégâts sur\nune épée longue.\nKyra a gagné « Fatalité » en s’attirant\nles faveurs d’un noble. Cette épée\nd’infliger un saignement de 1d4 par tour\net n’est stoppé que par la volonté du\nporteur ou sa mort.\nHaches à 1 main de Jarnell 2\n« Rage Bouillonnante » et « Colère Froide » sont les armes\nque porte Jarnell 2 pour faire des carnages. Chaque arme\nrajoute 1d6 dégâts de feu ou de glace. Si une même cible\nest touchée par les 2 armes , elle subit une explosion\nthermique qui rajoute 1d4 dégâts dans une zone de 1,5m.\n\n-- 126 of 137 --\n\nGants de combat de Stryko Amulette de Stryko\n« Les Tabasseurs » donnent\nun bonus d’agilité et de force\nde +1 et rajoutent 1d4 dégâts à\nchaque coup.\n« L’œil au beurre Noir » est le\npendentif que Stryko porte tout\nle temps. Il lui permet d’avoir un\nbonus au toucher de +1.\nDague de Myria Dague de Myria\n« Sombre intention » et « Croc de la veuve » sont les armes de\nMyria. Hormis leur affutage hors du commun qui donnent 1d4 dégâts\nsupplémentaire à chaque coup , ces dagues possèdent un pouvoir\nspéci",
+          "audioTrackId": "",
+          "cardType": "combat",
+          "ambiance": "sombre",
+          "imageUrl": "",
+          "mapUrl": "",
+          "trackUrl": "",
+          "attachedCharacterSheetIds": [],
+          "invitedTemplateKeys": [],
+          "sceneKind": "combat",
+          "moodHint": "sombre",
+          "npcs": [
+            "Kyra",
+            "Kyra\nKyra",
+            "Beaut",
+            "Cette",
+            "Fatalit",
+            "Haches"
+          ],
+          "locations": [
+            "une épée longue",
+            "une zone de 1",
+            "beurre Noir » est le",
+            "toucher de +1",
+            "hasard des cibles",
+            "tour"
+          ],
+          "triggerKeywords": [
+            "combat",
+            "repos"
+          ],
+          "createdAt": "2026-02-25T15:23:38.748Z"
+        },
+        {
+          "id": "1772033018748-7df14a0c9475f8",
+          "title": "Scene 76",
+          "notes": "-- 127 of 137 --\n\nBague de Francesca Bague de Francisca\n« Hémoglobine» donne un\nsoin de 1pv par tour et toutes\nles potions ont un effet\nmaximal\n« Testament» permet au\nporteur de communiquer avec\nles morts ainsi que d’invoquer\nun zombie une fois par jour\nPistolets du Capitaine Elrickus\n« Compagnons d’abordage » est un\njeu de pistolets magiques semi\nautomatiques qui stockent chacun\n100 cartouches par repos long. 1d4\ndégâts supplémentaires par tir\nArc du Loup\n« Alpha de la meute » est un arc qui\npermet de parler aux animaux et\nleur donner des ordres. Il permet\naussi d’ignorer 2 de CA de la cible.\n1d6 dégâts supplémentaire.\nBouclier du Chevalier Metryane\n« Roi du combat» permet au\nporteur d’être formé au port\nde n’importe quel équipement.\n+1 CA.\nPièce porte bonheur du Haut Trésorier Bondo\n« Début de richesse» permet\nau porteur de créer par\nmagie 10 pièces d’or par jour ,\nmais il faut réussir un DD15 de\nsagesse pour y arriver sans\nmanger son propre trésor.\n\n-- 128 of 137 --\n\nANNEXES : Lore\n\n-- 129 of 137 --\n\nLa ville de Kotrya :\nFondée par la dynastie Jarnell récemment , la ville de Kotrya est tel un joyau dominant l’océan. La première pierre fut posée il y a 60 ans par Jarnell 1er alor",
+          "audioTrackId": "",
+          "cardType": "combat",
+          "ambiance": "calme",
+          "imageUrl": "",
+          "mapUrl": "",
+          "trackUrl": "",
+          "attachedCharacterSheetIds": [],
+          "invitedTemplateKeys": [],
+          "sceneKind": "combat",
+          "moodHint": "calme",
+          "npcs": [
+            "Bague",
+            "Francesca Bague",
+            "Francisca",
+            "Testament",
+            "Pistolets",
+            "Capitaine Elrickus"
+          ],
+          "locations": [
+            "porteur de communiquer avec",
+            "animaux et",
+            "porteur d’être formé au port",
+            "porteur de créer par",
+            "les yeux de son mari et de son",
+            "pouvoir de Jarnell 3 dura 30 an"
+          ],
+          "triggerKeywords": [
+            "combat",
+            "repos"
+          ],
+          "createdAt": "2026-02-25T15:23:38.748Z"
+        },
+        {
+          "id": "1772033018748-232e590f8509f",
+          "title": "Scene 77",
+          "notes": "-- 130 of 137 --\n\nLes Grandes Familles :\nLa ville fut fondée par Jarnell , mais il n’a pas œuvré seul. Les Grandes Familles sont les descendants des nobles ayant rendu cela possible.\nIl y a tout d’abord les Rindorel , dont le patriarche Forandien est un ami de Jarnell 1er. Lors de la fondation , cet elfe était le maitre espion du roi. Il fut anobli\ntrès rapidement et placé en tant que commandant du Renseignement pour récompenser sa valeur. Il est toujours vivant mais vit reclus dans sa tour.\nIl y a ensuite la famille Fierepierre qui participa grandement à la construction de la ville. Chaque pierre de la cité est estampillée Fierepierre. De la\nproduction jusqu’à la moindre sculpture , c’est un nain Fierepierre qui en est l’artisan. Aujourd’hui malheureusement cette famille est en déchéance car leur\nseul héritier Elrich a sombré dans un alcoolisme profond et l’a rendu bon à rien.\nLes Flammecoeur sont une famille de commerçants dans le textile. La plupart des boutiques et marchés sont abreuvés de leurs produits de bonne qualité et\naussi bon marché. Ce sont eux qui ont habillé les soldats et le peuple quand les hivers étaient froids et les chantiers pas terminés. Sans leur concours , l",
+          "audioTrackId": "",
+          "cardType": "narration",
+          "ambiance": "neutre",
+          "imageUrl": "",
+          "mapUrl": "",
+          "trackUrl": "",
+          "attachedCharacterSheetIds": [],
+          "invitedTemplateKeys": [],
+          "sceneKind": "narration",
+          "moodHint": "neutre",
+          "npcs": [
+            "Les Grandes",
+            "Familles",
+            "Jarnell",
+            "Rindorel",
+            "Forandien",
+            "Lors"
+          ],
+          "locations": [
+            "sa tour",
+            "un alcoolisme profond et l’a re",
+            "le textile",
+            "la magie",
+            "ville",
+            "tour"
+          ],
+          "triggerKeywords": [],
+          "createdAt": "2026-02-25T15:23:38.748Z"
+        },
+        {
+          "id": "1772033018748-77a3d052f9d868",
+          "title": "Scene 78",
+          "notes": "-- 131 of 137 --\n\nANNEXES : Evènements spéciaux\n\n-- 132 of 137 --\n\nL’école\nSi les joueurs viennent avant le Conseil , ils trouvent ici une scène qui éveille les soupçons. Dans ce cadre idyllique , le Maitre Kandros dirige cette école avec\nune conviction vraiment étonnante. Les institutrices sous ses ordres appliquent les programmes scolaires et les enfants en étude semblent particulièrement\nbons. Kotrya est reconnue pour son système scolaire et Kandros y est pour quelque chose.\nLes institutrices sont toutes jeunes et belles et leurs classes sont d’un calme surnaturel.\nEn réalité , lors de leur embauche , les institutrices sont la cible d’un sort de charme que Kandros leur inflige grâce à une potion dissimulée dans du thé. Il\nn’abuse pas d’elles mais ne leur demande pas leur avis pour le sort. L’effet est que les jeunes femmes obéissent au doigt et à l’œil de Kandros.\nIl pense que enseignants doivent charmer leur auditoire , et il agit de la sorte afin de leur permettre de lancer un sort d’hypnose sur les enfants dès leur\nentrée en classe.\nS’il est démasqué , il suppliera les joueurs de ne rien dire , quitte à faire leurs quatre volontés dans la mesure du possible.\nS’il est dénoncé",
+          "audioTrackId": "",
+          "cardType": "combat",
+          "ambiance": "mystere",
+          "imageUrl": "",
+          "mapUrl": "",
+          "trackUrl": "",
+          "attachedCharacterSheetIds": [],
+          "invitedTemplateKeys": [],
+          "sceneKind": "combat",
+          "moodHint": "mystere",
+          "npcs": [
+            "Conseil",
+            "Dans",
+            "Maitre Kandros",
+            "Kotrya",
+            "Kandros",
+            "Chef Zigerova"
+          ],
+          "locations": [
+            "ce cadre idyllique",
+            "ses ordres appliquent les progr",
+            "du thé",
+            "doigt et à l’œil de Kandros",
+            "les enfants dès leur",
+            "la mesure du possible"
+          ],
+          "triggerKeywords": [
+            "combat"
+          ],
+          "createdAt": "2026-02-25T15:23:38.748Z"
+        },
+        {
+          "id": "1772033018748-7db9b0526826a8",
+          "title": "Scene 79",
+          "notes": "-- 134 of 137 --\n\nL'arène\nLe combat contre Kyra est truqué car les joueurs sont drogués. Evidemment ils ne peuvent pas combattre tous en même temps et doivent donc choisir qui\naffrontera Kyra. Le joueur qui participe boira un verre avec la gladiatrice avant le combat mais il sera empoisonné sauf en cas de DD 15 Cons. Si le poison agit , il\naura -2 sur toutes ses statistiques.\nLors du combat , la foule réagit à l’intensité du combat . Le joueur peut gagner la foule si il joue avec elle. Si la foule est du coté du joueur , il peut ignorer son\nmalus et peut gagner +1 de Cha définitif si il arrive à vaincre Kyra avec style. Si le combat est médiocre , à l’inverse , il perdre 1 de Cha.\n\n-- 135 of 137 --\n\nLa maison de passe\nL’établissement de Madame Rouge est reconnu pour attirer toutes les strates du peuple. Du\npaysan jusqu’au Noble , tout le monde connait cette adresse.\nSi les joueurs viennent avant d’avoir affronté Kyra , ils peuvent l’apercevoir prenant du bon\ntemps avec plusieurs hommes et surtout 4 gardes impassibles qui la protègent. Il faut un DD\ncharisme 20 pour avoir son « attention ». Il est possible de la faire parler de la secte.\nIl est possible de trouver d’autres courtisan",
+          "audioTrackId": "",
+          "cardType": "combat",
+          "ambiance": "neutre",
+          "imageUrl": "",
+          "mapUrl": "",
+          "trackUrl": "",
+          "attachedCharacterSheetIds": [],
+          "invitedTemplateKeys": [],
+          "sceneKind": "combat",
+          "moodHint": "neutre",
+          "npcs": [
+            "Kyra",
+            "Evidemment",
+            "Cons",
+            "Lors",
+            "Cha",
+            "Madame Rouge"
+          ],
+          "locations": [
+            "toutes ses statistiques",
+            "Noble",
+            "son corps (-1 con)",
+            "développement d’une grosse verr",
+            "son nez (-1 cha)"
+          ],
+          "triggerKeywords": [
+            "combat"
+          ],
+          "createdAt": "2026-02-25T15:23:38.748Z"
+        },
+        {
+          "id": "1772033018749-6eb168c9561bb",
+          "title": "Scene 80",
+          "notes": "-- 136 of 137 --\n\nLa course poursuite\nLors de la course poursuite , il faut abattre\nles chevaux mécaniques pour stopper Bondo.\nAprès ça , il sera coincé dans sa calèche\nsans solution et il faudra crocheter la porte\nDD15 pour rentrer.\nDans le garage il y aura 3 véhicules à disposition. Les 3 sont plus rapides\nque la calèche mais aussi plus difficiles à conduire. Le wagon doit faire un\nDD 10 de dex pour avancer mais il faudra faire 10 jets consécutifs pour\nrattraper Bondo. Il n’a pas d’arme donc il faudra un passager pour\nprendre d’assaut la calèche.\nLa voiture va le plus vite mais\nne peut prendre qu’un seul\npassager et n’a pas d’arme.\nC’est la plus difficile à conduire.\nDD 15 dex mais seulement 3\ntours pour rattraper Bondo.\nLe mini-tank doit être conduit\npar un joueur mais ne peut pas\ntirer sans un joueur placé au\ndessus. Il peut embarquer 3\njoueurs. DD dex 12 et 6 tours\npour rattraper Bondo.\nLe joueur posté à la mitrailleuse peut abattre les chevaux sur un DD 15 dex.\nEn cas d’échec , il lance 1d10 . Si il fait 1 il tue des citoyens de Kotrya et devra\nrépondre de ses crimes.\n\n-- 137 of 137 --",
+          "audioTrackId": "",
+          "cardType": "narration",
+          "ambiance": "tension",
+          "imageUrl": "",
+          "mapUrl": "",
+          "trackUrl": "",
+          "attachedCharacterSheetIds": [],
+          "invitedTemplateKeys": [],
+          "sceneKind": "narration",
+          "moodHint": "tension",
+          "npcs": [
+            "Lors",
+            "Bondo",
+            "Apr",
+            "Dans",
+            "Kotrya"
+          ],
+          "locations": [
+            "sa calèche",
+            "le garage il y aura 3 véhicules",
+            "dessus",
+            "un DD 15 dex"
+          ],
+          "triggerKeywords": [],
+          "createdAt": "2026-02-25T15:23:38.749Z"
+        }
+      ],
+      "characterSheets": [],
+      "adventureMeta": {
+        "adventureName": "la lame et le sang",
+        "gameSystem": "dnd5e",
+        "adventureType": "campagne",
+        "playerCount": 2,
+        "ruleMode": "narrative-first",
+        "worldStyle": "med-fan",
+        "summary": "tranquille chez les Jarnell"
+      },
+      "updatedAt": "2026-03-24T15:00:46.334Z"
+    }
+  }
+}

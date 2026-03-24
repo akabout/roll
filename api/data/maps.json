@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1774377904835-17fb80ec3198b",
+    "name": "test",
+    "imageUrl": null,
+    "pins": [
+      {
+        "id": "1774377924427-a295e2",
+        "x": 1,
+        "y": 1,
+        "label": "Marqueur",
+        "color": "#c8960c",
+        "icon": "📍"
+      }
+    ],
+    "zones": [],
+    "fogData": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR4AWJiYGA4DgAAAP//dyfvbQAAAAZJREFUAwAA1gDKRNcJQgAAAABJRU5ErkJggg==",
+    "grid": {
+      "type": "square",
+      "size": 50,
+      "opacity": 0.35
+    },
+    "scale": {
+      "pixelsPerUnit": 50,
+      "unitLabel": "m"
+    },
+    "createdAt": 1774377904835,
+    "updatedAt": 1774377940167
+  }
+]

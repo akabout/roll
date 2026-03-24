@@ -1,0 +1,26 @@
+{
+  "models": [
+    {
+      "id": "1773510620695-2ada41ea7d393",
+      "name": "character-human",
+      "category": "autre",
+      "description": "",
+      "tags": [],
+      "filename": "1773510620689-7dd80bb6a74468.glb",
+      "url": "/uploads/models/1773510620689-7dd80bb6a74468.glb",
+      "fileSize": 0.21,
+      "uploadedAt": "2026-03-14T17:50:20.695Z"
+    },
+    {
+      "id": "1773510641089-a7a6dd24c8c97",
+      "name": "character-orc",
+      "category": "autre",
+      "description": "",
+      "tags": [],
+      "filename": "1773510641087-1f18e290350688.glb",
+      "url": "/uploads/models/1773510641087-1f18e290350688.glb",
+      "fileSize": 0.19,
+      "uploadedAt": "2026-03-14T17:50:41.089Z"
+    }
+  ]
+}
